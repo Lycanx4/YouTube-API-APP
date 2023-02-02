@@ -1,0 +1,2688 @@
+courseId,courseTitle,embeddedURL,views,likes,subscribers,channelName,videoTitle,uploadDate,thumbnail,description,duration,skill
+0QUgvfuKvWU,C# Fundamentals for Beginners,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/0QUgvfuKvWU?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# Fundamentals for Beginners""></iframe>",213736,5516,414000,Microsoft Developer,C# Fundamentals for Beginners,2022-02-24,https://i.ytimg.com/vi/0QUgvfuKvWU/mqdefault.jpg,"Classic Throwback Series with Bob Tabor | Originally published in 2019
+Install the latest version of Visual Studio at https://visualstudio.microsoft.com/?WT_mc_id=dotnet-58793-cxa and follow along at home too.
+
+C# is a powerful and widely used programming language that you can use to make websites, games, mobile apps, desktop apps and more with .NET. In this video, Bob Tabor shows you the tools, how to write code, debug features, explore customizations, and more.
+
+More and newer videos: https://dotnet.microsoft.com/en-us/learn/videos?WT.mc_id=dotnet-58793-cxa
+Free self-guided learning for .NET & C#: https://docs.microsoft.com/en-us/users/dotnet/collections/yz26f8y64n7k07?WT.mc_id=dotnet-58793-cxa
+Download .NET: https://dotnet.microsoft.com/en-us/download?WT.mc_id=dotnet-58793-cxa
+
+00:00:00 – Start
+00:00:09 – Course Introduction
+00:08:08 – Installing Visual Studio
+While Bob uses Visual Studio 2015, you can install the latest version of Visual Studio at https://visualstudio.microsoft.com/?WT_mc_id=dotnet-58793-cxa and follow along at home too.
+00:13:50 – Creating Your First C# Program
+00:30:22 – Understanding Your First C# Program
+00:47:24 – Working with Code Files, Projects, and Solutions
+00:58:50 – Understanding Data Types and Variables
+01:26:53 – The if Decision Statement
+01:50:24 – Operators, Expressions, and Statements
+02:05:36 – for Iteration Statement
+02:24:04 – Understanding Arrays
+02:41:42 – Defining and Calling Methods
+03:12:51 – While Iteration Statement
+03:30:54 – Working with Strings
+03:54:24 – Working with Dates and Times
+04:04:51 – Understanding Classes
+04:28:47 – More About Classes and Methods
+05:03:16 – Understanding Scope and Accessibility Modifiers
+05:20:02 – Understanding Namespaces and Working with the .NET Class Library
+05:37:46 – Creating and Adding References to Assemblies
+05:58:06 – Working with Collections
+06:21:21 – Working with LINQ
+06:45:48 – Enumerations and the Switch Decision Statement
+06:58:58 – Gracefully Handling Exceptions
+07:20:02 – Understanding Events and Event-Driven Programming
+07:40:58 – Where to Go from Here
+
+#CSharp #beginner",PT8H13M30S,C#
+wxznTygnRfQ,C# Full Course 🎮 (FREE),"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/wxznTygnRfQ?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# Full Course 🎮 (FREE)""></iframe>",515264,21501,749000,Bro Code,C# Full Course 🎮 (FREE),2021-07-05,https://i.ytimg.com/vi/wxznTygnRfQ/mqdefault.jpg,"C# tutorial beginners full course (C# for Unity)
+#C# #tutorial #Unity
+⭐️Time Stamps⭐️
+#1   (00:00:00) C# tutorial for beginners 
+#2   (00:06:30) output 💬
+#3   (00:10:48) variables ✖️
+#4   (00:19:32) constants π
+#5   (00:20:35) type casting 💱
+#6   (00:27:49) user input ⌨️
+#7   (00:31:24) arithmetic operators 🧮
+#8   (00:35:54) Math class 📏
+#9   (00:40:55) random numbers 🎲
+#10 (00:44:27) hypotenuse calculator program 📐
+#11 (00:46:35) string methods 🔤
+#12 (00:53:26) if statements 🤔
+#13 (00:59:43) switches 🔀
+#14 (01:02:50) logical operators && || 🔣
+#15 (01:06:36) while loops ♾️
+#16 (01:09:45) for loops 🔁
+#17 (01:13:24) nested loops ➿
+#18 (01:18:28) number guessing game 🔢
+#19 (01:27:08) rock-paper-scissors game 🗿
+#20 (01:38:52) calculator program 🖩
+#21 (01:46:53) arrays 🚗
+#22 (01:52:50) foreach loop ➰
+#23 (01:54:42) methods 📞
+#24 (02:00:37) return keyword ↩️
+#25 (02:04:12) method overloading 🤯
+#26 (02:05:44) params keyword ⚙️
+#27 (02:08:52) exception handling ⚠️
+#28 (02:13:53) conditional operator ❓
+#29 (02:16:53) string interpolation 💲
+#30 (02:20:18) multidimensional arrays ⬜
+#31 (02:25:23) classes 📦
+#32 (02:30:07) objects 🧍‍♂️
+#33 (02:34:58) constructors 👷
+#34 (02:40:41) static 🚫
+#35 (02:45:43) overloaded constructors 🍕
+#36 (02:50:04) inheritance 👪
+#37 (02:54:32) abstract classes 👻
+#38 (02:57:08) array of objects 🏬
+#39 (03:00:57) objects as arguments 🧳
+#40 (03:05:15) method overriding 🙅
+#41 (03:09:07) ToString method 💭
+#42 (03:12:34) polymorphism 🎭
+#43 (03:17:44) interfaces 🐟
+#44 (03:23:22) Lists 📃
+#45 (03:30:07) List of objects 🦸‍♂️
+#46 (03:33:35) getters & setters 🔒
+#47 (03:37:41) auto implemented properties 🔐
+#48 (03:40:26) enums 🪐
+#49 (03:47:33) generics ⁉️
+#50 (03:52:56) multithreading 🧶
+
+Code from each topiccan be found pinned underneath each video in the C# playlist on the channel homepage
+Full playlist: https://www.youtube.com/watch?v=r3CExhZgZV8&list=PLZPZq0r_RZOPNy28FDBys3GVP2LiaIyP_&ab_channel=BroCode
+
+music credits 🎼 :
+===========================================================
+Up In My Jam (All Of A Sudden) by - Kubbi https://soundcloud.com/kubbi
+Creative Commons — Attribution-ShareAlike 3.0 Unported— CC BY-SA 3.0 
+Free Download / Stream: http://bit.ly/2JnDfCE
+Music promoted by Audio Library https://youtu.be/tDexBj46oNI
+===========================================================",PT4H1S,C#
+q_F4PyW8GTg,C# Full Course - Learn C# 10 and .NET 6 in 7 hours,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/q_F4PyW8GTg?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# Full Course - Learn C# 10 and .NET 6 in 7 hours""></iframe>",182039,5873,75000,tutorialsEU,C# Full Course - Learn C# 10 and .NET 6 in 7 hours,2022-07-21,https://i.ytimg.com/vi/q_F4PyW8GTg/mqdefault.jpg,"🚀 SKYROCKET your C# skills and become a sought-after C# developer with our C# Progress Academy: https://academy-tutorials.eu/csharp-progress-academy-organic?utm_source=yt_big_csharp_full_course
+
+🔥 WANT to LEARN everything needed to Jumpstart your C# CAREER? Then you have come to the right place! In this 7 HOUR course you will learn everything you need for the basics of C# development!
+
+
+📚 Or do you like to the BOOK format more? We got you covered! Don’t forget to use our code mlpanjuta (40% off Tiny C# Projects in all formats) valid till August 2nd.
+https://www.manning.com/books/tiny-c-sharp-projects?utm_source=tutorialseu&utm_medium=affiliate&utm_campaign=book_panjuta_tiny_7_19_22&utm_content=youtube&a_aid=tutorialseu&a_bid=1563805e 
+
+👊 OR WAIT! ARE YOU LOOKING FOR A CHALLENGE? What about the 21-day Challenge to become an ASP and ANGULAR PRO? You have to check this out!
+https://get.tutorials.eu/asp21day
+
+Online C# Editor:
+https://www.programiz.com/csharp-programming/online-compiler/
+
+Enjoy our full 7 hour long c# course video!
+
+We'll make sure to make a Developer out of you in no time!
+
+Timestamps:
+00:00:00 Welcome to this 7-hour C# course!
+00:04:26 What is C#?
+00:19:53 Changes in NET 6
+01:11:15 A C# Exercise
+01:15:22 Methods: The theory
+01:22:39 Methods: Creating Methods
+01:30:53 Methods: Return Value
+01:39:35 User Input
+01:48:22 Catching Errors
+02:02:54 Operators
+02:19:59 If statements
+02:33:50 Use TryParse
+02:41:11 If statements & nested if statements
+02:50:44 Switch Case
+02:57:14 If Statements: Shortcut
+03:06:16 Loops
+03:11:49 For Loops
+03:18:37 Do While Loops
+03:26:15 While Loops
+03:32:06 Break & Continue
+03:38:42 Object Oriented Programming
+03:41:49 Creating Classes
+03:52:38 Constructors
+04:04:20 Multiple Constructors
+04:15:45 Properties
+04:34:56 Extending Properties
+04:53:18 Members
+05:08:35 Arrays
+05:12:38 Using Arrays
+05:19:38 Foreach Loop
+05:29:02 2D Arrays
+05:43:01 Nested For Loops
+05:54:01 Jagged Arrays
+06:02:58 ArrayLists
+06:12:23 Debugging
+06:24:21 Debugging: In depth
+06:34:40 Debugging: Fixing Bugs
+06:44:52 Defensive Programming
+06:58:54 Thank you for watching!
+
+So, what is C#?
+C# (pronounced ""See Sharp"") is a modern, object-oriented, and type-safe programming language. C# enables developers to build many types of secure and robust applications that run in .NET. C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers. This tour provides an overview of the major components of the language in C# 8 and earlier. If you want to explore the language through interactive examples, try the introduction to C# tutorials.
+
+C# is an object-oriented, component-oriented programming language. C# provides language constructs to directly support these concepts, making C# a natural language in which to create and use software components. Since its origin, C# has added features to support new workloads and emerging software design practices. At its core, C# is an object-oriented language. You define types and their behavior.
+
+C# programs run on .NET, a virtual execution system called the common language runtime (CLR) and a set of class libraries. The CLR is the implementation by Microsoft of the common language infrastructure (CLI), an international standard. The CLI is the basis for creating execution and development environments in which languages and libraries work together seamlessly.
+
+A type defines the structure and behavior of any data in C#. The declaration of a type may include its members, base type, interfaces it implements, and operations permitted for that type. A variable is a label that refers to an instance of a specific type.
+
+To learn more, make sure to watch the video, and we promise you that you'll become a C# developer by the end of the course! Have fun!
+
+#csharp #coding #tutorial #learn #microsoft #net
+
+TAGS
+c#,.net,c-sharp,csharp,unity,programming,visual studio,c sharp,learn c#,c# programming,c# tutorial,c# for beginners,learn c# programming,c# tutorial for beginners,c# course,tutorial,coding,core,how,how to,learn,visual studio 2022,web development,c sharp tutorial,learn c# for beginners,learning c#,csharp tutorial for beginners,c# tutorials,beginner,learn c# for unity,learn c# in one video,csharp tutorial,.net framework,Complete 7 Hour C# NET 6.0 Course
+
+tutorialsEU offers you free video tutorials about programming and development for complete beginners up to experienced programmers. 
+This includes C#, Unity, Python, Android, Kotlin, Machine Learning, etc.
+Stay tuned and subscribe to tutorialsEU: https://goo.gl/rBFh3x
+
+Android: https://www.youtube.com/channel/UCjHtatblxvHvtj2rkqlkk8Q
+C#: https://www.youtube.com/channel/UCqCnjtxdlG9qEgFJIUeLJNg
+Unity: https://www.youtube.com/channel/UCajMHiOEuARZm6t2byQRtIA
+Facebook: https://www.facebook.com/TutorialsEU-109380204093233
+LinkedIn: https://www.linkedin.com/company/tutorialseu
+Discord: https://discord.gg/zwbrpCNB2M",PT7H33S,C#
+M5ugY7fWydE,C# Full Course : C# Tutorial for Beginners,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/M5ugY7fWydE?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# Full Course : C# Tutorial for Beginners""></iframe>",26676,935,1220000,Derek Banas,C# Full Course : C# Tutorial for Beginners,2022-11-11,https://i.ytimg.com/vi/M5ugY7fWydE/mqdefault.jpg,"In this C# Full Course I provide the most complete tutorial on C# all in one huge 9 Hour course! I cover not only the core C# language, but also provide numerous examples on how to use them to make real applications. At the end of the course we make a database management system from scratch.
+
+This is basically a FREE Udemy course with NO ADS. I also provide organized code on GitHub that you can download for free here : https://github.com/derekbanas/C-Sharp-Course
+
+If you like huge videos like this, please tell me in the comment section below. If you do, my next videos will be huge courses like this on .NET MAUI and Unity Game Programming with C#.
+
+Best C# Book : https://amzn.to/3G58Qbq
+
+MY UDEMY COURSES ARE 87.5% OFF TIL January 31st ($9.99) One is FREE
+
+➡️ Python Data Science Series for $9.99 : Highest Rated & Largest Python Udemy Course + 56 Hrs + 200 Videos + Data Science https://bit.ly/Master_Python_45
+➡️ C++ Programming Bootcamp Series for $9.99 : Over 23 Hrs + 53 Videos + Quizzes + Graded Assignments + New Videos Every Month https://bit.ly/C_Course_45
+➡️ FREE 15 hour Golang Course!!! : https://bit.ly/go-tutorial6 (100 Available)
+
+TABLE OF CONTENTS
+00:00 Intro
+00:39 Visual Studio Setup
+02:00 System
+02:39 Visual Studio Environment
+03:26 Namespace
+04:00 Class Basics
+04:40 Main Function
+05:30 Void
+05:55 Main Arguments
+06:28 WriteLine
+07:10 Console Methods
+09:03 Receive User Input
+11:25 Variables
+11:49 Data Types
+23:00 Casting
+28:30 Formatting Output
+30:49 String Functions
+41:00 Format
+42:45 Escape Characters
+43:20 Verbatim Strings
+44:35  Arrays
+48:50 For Loop
+56:55 Function Basics 
+58:45 Foreach
+1:07:22 If / Else / Else If
+1:12:10 Ternary Operator
+1:12:50 Switch
+1:17:43 While
+1:20:20 Do While
+1:20:40 Random
+1:24:48 Exception Handling
+1:30:41 StringBuilder
+1:38:23  Functions
+1:39:00 Access Specifier
+1:46:26 Out Parameter
+1:48:32 Pass By Reference
+1:51:40 Passing Unknown Number of Parameters
+1:56:00 Method Overloading
+1:59:44 DateTime / TimeSpan
+2:04:00 Enumerated Types
+2:07:45 Classes / Objects
+2:09:50 Constructor
+2:10:50 Static
+2:13:40 This
+2:22:30 Structs
+2:30:42 Nullable Types
+2:33:30 Basic Setter / Getter
+2:35:35 Getters / Setters Properties
+2:39:00 Public / Private / Protected
+2:40:10 Constants
+2:40:37 Readonly
+2:50:11 Inheritance
+2:56:20 Virtual
+2:59:40 Inner Class
+3:03:01 Override Method
+3:14:11  Abstract Classes / Methods
+3:28:26 Polymorphism
+3:29:19 Interfaces
+3:38:10 Complex OOP Example
+3:49:30  Warriors Fight to the Death
+4:25:32 ArrayList
+4:34:23  Dictionaries
+4:39:44 Queues
+4:44:02 Stacks
+4:48:06 Generics
+5:02:41 Delegates
+5:08:28 Lambda
+5:11:33 Where
+5:17:40 Select
+5:17:55 Range
+5:19:30 Zip
+5:21:25 Aggregate
+5:23:12 Average
+5:23:56 All
+5:24:40 Any
+5:25:05 Distinct
+5:26:00 Except
+5:27:09 Intersect
+5:27:47 IEnumerator
+5:34:12 Operator Overloading
+5:46:09  Anonymous Types
+5:49:51 LINQ
+6:18:53 Threads
+6:38:44 Directory Functions
+6:43:15 File I/O
+6:49:40 FileStreams
+6:53:50 StreamWriter / StreamReader
+6:57:45 BinaryWriter / BinaryReader
+7:01:17 Serialization
+7:15:10 XmlSerializer
+7:26:32 Installing SQL Server
+7:30:30 Connecting SQL Server to Visual Studio
+7:32:58 Setting Up Database
+7:41:30 WPF / Database Big Project
+7:55:40 Design an Interface
+8:12:53 Reading From Database
+8:32:10 Add Data to Database
+8:49:56 Delete Data from Database
+8:51:35 Update Tables Automatically",PT8H58M36S,C#
+hnjly9iBHso,"How To Learn C# in 2023 - Learning Path, Tips & Tricks, and More","<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/hnjly9iBHso?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""How To Learn C# in 2023 - Learning Path, Tips &amp; Tricks, and More""></iframe>",89520,2681,352000,IAmTimCorey,"How To Learn C# in 2023 - Learning Path, Tips & Tricks, and More",2022-12-26,https://i.ytimg.com/vi/hnjly9iBHso/mqdefault.jpg,"How do I learn C# well? What order should I learn it in? Are there other topics that I should learn after I learn the basics? What can I do with C#? If you have ever asked any of these questions, please know that you are not alone. I get these questions often. As we move into 2023, these questions are coming up more and more as people plan out the coming year and how they want to improve as a developer.
+
+In this video, I am going to walk you through what you could be as a C# developer, what order to learn the various C# topics in, what your learning cycle should look like, some tips and tricks for learning C# well, and how you can do all of this as easy as possible. 
+
+Full Training Courses: https://www.IAmTimCorey.com
+Mailing List:  https://signup.iamtimcorey.com/",PT46M37S,C#
+w8rRhAup4kg,C# 2022 С НУЛЯ ДО ПРОФИ | СЛИВ ЛУЧШЕГО КУРСА,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/w8rRhAup4kg?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# 2022 С НУЛЯ ДО ПРОФИ | СЛИВ ЛУЧШЕГО КУРСА""></iframe>",416001,30398,169000,Роман Сакутин - GameDev,C# 2022 С НУЛЯ ДО ПРОФИ | СЛИВ ЛУЧШЕГО КУРСА,2022-12-26,https://i.ytimg.com/vi/w8rRhAup4kg/mqdefault.jpg,"Бесплатно выложили полный курс C# для вас наши дорогие зрители. 
+
+Индивидуальное обучение разработке игр с доведение до трудоустройства - https://ijunior.ru/unity-start?utm_source=youtube&utm_medium=video&utm_campaign=description&utm_content=csharpin9hours
+
+Мой телеграм - https://t.me/sakutin_csharp/
+
+Моя студия Agava - https://agava.tech/
+Моя книга  - http://csharpbook.sakutin.ru
+
+ЯЮниор:
+Группа - https://vk.com/holymonkey_sandbox
+ЧАТ В ТЕЛЕГЕ - https://t.me/csharp_faggots_fan_club
+Discord - https://discord.gg/MpHGV2S
+
+Таймкоды: 
+00:00:00 - Предисловие от Романа Сакутина
+00:02:27 - Введение в программирование
+00:05:15 - Установка Visual Studio бесплатно
+00:09:50 - Переменные  в сишарп
+00:19:40 - Как правильно именовать переменные  в сишарп
+00:21:00 - Арифметические операторы в сишарп
+00:29:30 - Логические операторы в сишарп
+00:32:30 - Конкатенация в сишарп
+00:35:28 - Интерполяция  в сишарп
+00:40:24 - Конвертация типов в сишарп
+00:44:20 - Действия с консоль на языке сишарп
+00:52:23 - Инкремент и декремент в Сишарп
+00:56:58 - Практическая задача ""Систему урона"" на сишарп
+01:06:31 - Оператор If в CSharp 
+01:16:39 - Логическое И и ИЛИ в сишарп
+01:23:55 - Условный оператор Switch в сишарп
+01:31:31 - Практика условных операторов в сишарп
+01:31:31 - Практика условных операторов в сишарп
+01:43:10 - Циклы в сишарп - while 
+01:47:50 - Циклы в сишарп - for
+01:55:27 - Практика циклов в сишарп 
+02:08:55 - Генератор случайных чисел (Random) в сишарп
+02:11:30 - Создание игры ""Угадай число""
+02:21:05 - Создание игры ""Гладиаторские бои""
+02:31:05 - Хитрости работы с консолью
+02:39:17 - Одномерные массивы в сишарп
+02:50:52 - Практика работы с массивами в сишарп
+03:17:07 - Многомерные массивы в сишарп
+03:32:13 - Практика работы с многомерными массивами в сишарп
+03:48:26 - Ссылочные типы в сишарп
+03:56:42 - Как увеличить массив в сишарп? 
+04:00:35 - Создание консольные игры ""Бродилка"" на сишарп
+04:13:32 - Строка - ЭТО МАССИВ?
+04:14:20 - Цикл Foreach в сишарп
+04:17:02 - Функции в сишарп
+04:25:17 - Возврат значений и return в сишарп
+04:27:57 - Необязательные параметры
+04:32:11 - Ref и out в CSharp
+04:43:55 - Перегрузка 
+04:48:24 - Практика ""Healthbar""
+04:54:14 - Роман Сакутин ""Делаем Pacman в консоли на C#""
+05:31:01 - Коллекция List в сишарп
+05:38:04 - Queue или очередь, FIFO коллекция в сишарп 
+05:42:19 - Stack FILO коллекция в сишарп 
+05:44:55 - Dictionary или словарь в сишарп 
+05:52:36 - Что такое ООП? 
+05:53:58 - Отношения в объектно ориентированном программирование
+05:56:38 - Типизация в ООП
+06:01:24 - Абстракция (Полиморфизм) в сишарп
+06:02:08 - Классы и объекты в сишарп
+06:05:53 - Поля и модификаторы доступа в сишарп
+06:12:16 - Методы в сишарп
+06:18:12 - Конструкторы в сишарп
+06:25:00 - Практика ООП ""Программа для администратора кафе""
+06:34:41 - Связь Has-a в языке сишарп
+06:40:31 - Связь Is-a в языке сишарп
+06:52:26 - Свойства в сишарп
+07:00:21 - Это ломает вашу инкапсуляцию! 
+07:06:28 - Практика ООП ""Бой героев"" 
+07:17:05 - Виртуальные методы
+07:22:36 - Паттерн ""Цикл обновления""
+07:24:49 - Интерфейсы в сишарп
+07:28:04 - Абстрактные классы в сишарп
+07:32:34 - Статические члены и классы
+07:35:56 - Распространённые проблемы static
+07:38:35 - Статичеческий конструктор в сишарп
+07:41:49 - СТАТИКА ЭТО ПЛОХО
+07:44:00 - Структура VS Класс 
+07:48:14 - Ошибка при работе со структурой
+07:52:25 - Практика ООП ""Симулятор компьютерного клуба""
+08:27:16 - Роман Сакутин ""Явное и неявное преобразование типов в C#""
+08:33:20 - Upcasting и Downcasting в сишарп
+08:43:41 - Преобразование объектов с помощью is и as
+08:48:23 - Pattern Matching в сишарп
+08:51:05 - enum - что за тип данных в сишарп?
+08:56:15 - Введение в LINQ 
+09:03:31 - Методы расширения  LINQ",PT9H19M56S,C#
+aB9LJ9oHGOs,Learn C# with these 9 LINES OF CODE - Unity Tutorial!,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/aB9LJ9oHGOs?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Learn C# with these 9 LINES OF CODE - Unity Tutorial!""></iframe>",188352,10934,335000,Blackthornprod,Learn C# with these 9 LINES OF CODE - Unity Tutorial!,2021-06-18,https://i.ytimg.com/vi/aB9LJ9oHGOs/mqdefault.jpg,"Xsolla: https://xsolla.pro/Blackthornprod
+------------------------
+Olobollo on Steam: https://store.steampowered.com/app/1592650/Olobollo/
+------------------------
+0:00 - Intro
+0:50 - Xsolla Promo
+1:24 - Variables
+4:17 - GetComponent()
+6:08 - Instantiate()
+7:52 - Destroy()
+9:27 - Loops
+13:35 - If/else
+16:04 - Input.GetAxisRaw()
+18:59 - Vector2.MoveTowards()
+21:00 - OnTriggerEnter2D()",PT25M16S,C#
+Z5JS36NlJiU,C# for Beginners | Full 2-hour course,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/Z5JS36NlJiU?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# for Beginners | Full 2-hour course""></iframe>",63822,1558,212000,dotnet,C# for Beginners | Full 2-hour course,2022-02-09,https://i.ytimg.com/vi/Z5JS36NlJiU/mqdefault.jpg,"C# is a powerful and widely used programming language that you can use to make websites, games, mobile apps, desktop apps and more with .NET. In this video, we'll teach you all the basics of C# and show you how to build a bank account.
+
+Get the .NET Interactive Notebooks and follow along at home: https://aka.ms/csharpnotebooks 
+Free self-guided learning for .NET & C#: https://docs.microsoft.com/en-us/users/dotnet/collections/yz26f8y64n7k07?WT.mc_id=dotnet-56973-cxa
+Download .NET: https://dotnet.microsoft.com/en-us/download?WT.mc_id=dotnet-56973-cxa
+
+Jump to:
+00:00:00 – Start
+00:00:09 – What is C#
+00:01:27 – C#: Hello World
+00:06:01 – C#: The Basics of Strings
+00:14:35 – C#: Searching Strings
+00:17:27 – C#: Numbers and Integer Math
+00:22:04 – C#: Numbers and Integer Precision
+00:27:32 – C#: Numbers and Decimals
+00:33:10 – C#: Branches (if)
+00:44:29 – C#: “Hello World” Explained
+00:50:29 – C#: What are Loops?
+00:57:42 – C#: Combining Branches and Loops
+01:04:34 – C#: Arrays, List, and Collections
+01:15:09 – C#: Sort, Search, and Index Lists
+01:22:08 – C#: Lists of Other Types
+01:29:51 – C#: Debugging
+01:34:30 – C#: Object Oriented Programming – Objects and Classes
+01:47:20 – C#: Object Oriented Programming – Methods and Members
+01:56:02 – C#: Object Oriented Programming – Methods and Exceptions
+02:03:00 – C#: Object Oriented Programming – Catching Exceptions
+
+#dotnet #csharp #beginner",PT2H15M28S,C#
+dZSLm4tOI8o,The Perfect C# Console Application...Or Not.,https://www.youtube.com/watch?v=dZSLm4tOI8o,34582,942,352000,IAmTimCorey,The Perfect C# Console Application...Or Not.,2022-10-03,https://i.ytimg.com/vi/dZSLm4tOI8o/mqdefault.jpg,"There are certain best practices every C# application should follow, right? Probably DRY, SOLID, Logging, Dependency Injection, Localization, Separation of Concerns, and Unit Testing at the very least. These seem like obvious things that every application should have. In this video, we are going to do something a bit unique. I am going to show you how to do all of those things, and I am going to show you why you shouldn't always do those things. We are going to build the ultimate Hello World application. You won't want to miss it.
+
+Full Training Courses: https://www.IAmTimCorey.com
+Source Code: https://leadmagnets.app/?Resource=PerfectConsoleApp
+Patreon: https://www.patreon.com/IAmTimCorey
+Mailing List:  https://signup.iamtimcorey.com/",PT59M20S,C#
+fG290-1sljc,"C# vs. JAVA: Сделай Правильный Выбор! / Какой ЯП учить в 2023? / НАТИВ / Павел Львов, Семен Пирко","<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/fG290-1sljc?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# vs. JAVA: Сделай Правильный Выбор! / Какой ЯП учить в 2023? / НАТИВ / Павел Львов, Семен Пирко""></iframe>",3359,141,10800,TeachMeSkills Школа программирования,"C# vs. JAVA: Сделай Правильный Выбор! / Какой ЯП учить в 2023? / НАТИВ / Павел Львов, Семен Пирко",2022-11-08,https://i.ytimg.com/vi/fG290-1sljc/mqdefault.jpg,"🤚 Привет! Вы на канале ""TeachMeSkills Школа программирования""! И это новый выпуск рубрики НАТИВ в формате подкаста. Сегодня поговорим об Aйти и не только. 🧐 Мы взяли за основу одну из самых беспощадных тем для споров - Java или C#: что лучше, важнее, популярнее, быстрее и круче? Какой язык программирования перспективнее: Си Шарп или Джава? Чем отличается Джава от Си Шарп? Какой язык программирования учить в 2023 году? Visual Studio и IntelliJ IDEA: почему второму больше доверяют? Kotlin заменит Java? Кто из программистов зарабатывает больше? Как выбрать язык программирования? Поделятся своим опытом работы и помогут во всем разобраться Павел Львов и Семен Пирко. Приятного просмотра! Поехали! 
+
+❗️Ссылка на курс С# (.Net) разработчик - https://teachmeskills.by/kursy-programmirovaniya/kursy-asp-net-online 
+❗️Ссылка на курc Java разработчик - https://teachmeskills.by/kursy-programmirovaniya/obuchenie-java-online 
+
+🧔Профайл Павла - https://www.linkedin.com/in/pavel-lvou-328139146/ 
+👱‍♀️Профайл Семена - https://www.linkedin.com/in/simonpirko/ 
+🧔Telegram Ильи (для ваших предложений по контенту) - @ilyarublevsky
+
+Что еще будет в видео👇
+0:00 - Интро 
+2:00 - Интро про C# (что за язык, почему с ним начал работать) 
+3:03 - Интро про Java (в том же ключе) 
+4:30 - Почему есть противостояние Java и C#
+8:03 - Почему в Java такой сложный синтаксис 
+12:56 - Почему C# так похож на Java (на этапе создания языка) 
+16:00 - Про Visual Studio и IntelliJ IDEA
+22:30 - Про библиотеки и фреймворки Java  - почему так много 
+26:10 - Про стоимость Enterprise-решений - на чем дороже (Java или C#)
+32:16 - Про совместимость языков для работы на любых ОС 
+34:08 - Про «наследие» Java и C# (геймдев, мобильные платформы и т.д.) 
+41:33 - Почему Java так часто обновляется 
+47:45 - Про использование языков в Cloud-решениях 
+51:47 - Какие специалисты дороже 
+54:15 - Сколько лет осталось Шарпам и Джаве
+58:42 - Вольный ПАНЧлайн участников
+
+#teachmeskills #ityoutubersru #войтивайти",PT1H5M8S,C#
+uzAXxFBbVoE,Programming a Snake Game in C# - Full Guide,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/uzAXxFBbVoE?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Programming a Snake Game in C# - Full Guide""></iframe>",18083,494,2440,OttoBotCode,Programming a Snake Game in C# - Full Guide,2022-08-09,https://i.ytimg.com/vi/uzAXxFBbVoE/mqdefault.jpg,"Learn how to program a C# Snake game!
+
+Download the assets here:
+https://ottobotcode.com/snakeAssets
+
+In this video you will learn how to write a Snake game in C# without using any game engine. We go over everything you need to know to program Snake step-by-step. The video even includes helpful animations to help you understand everything! The code for the game is written in C#, but the is well decoupled from the UI and can be adapted for other programming languages like Java and C++. Have fun developing a Snake game in C#!
+
+Chapters:
+0:00 - The Game
+0:28 - Project Setup
+1:37 - Importing Assets
+3:04 - Grid Representation
+4:26 - GridValue Enum
+5:31 - Directions
+9:53 - Positions
+12:10 - The Game State
+15:27 - Adding The Snake
+16:49 - Adding Food
+19:40 - Snake Helpers
+21:10 - Snake Modification
+23:20 - Moving The Snake
+29:36 - Loading Images
+32:10 - Color/Font Resources
+34:30 - Coding UI
+37:33 - Image Grid
+41:28 - Adding Grid Images
+44:35 - Bitmap Scaling & Removing Gaps
+46:00 - Drawing The Game State
+49:54 - Changing Direction (User Input)
+51:33 - Moving Snake (Game Loop)
+53:07 - Updating The Score
+53:37 - A Strange Bug
+56:13 - Changing Direction Properly
+1:00:53 - Fixing Scaling
+1:02:26 - Intro/End Screen
+1:09:31 - Countdown
+1:10:56 - Restarting The Game
+1:12:56 - Googly Eyes!
+1:16:08 - What The ****?
+1:16:26 - Fixing Image Rotation
+1:17:28 - RIP Animation
+1:20:19 - Other Grid Sizes?
+1:21:49 - Thanks!",PT1H22M2S,C#
+1u5E_GiXF9M,Top C# Interview Questions And Answers | C# Interview Preparation | C# Training | Simplilearn,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/1u5E_GiXF9M?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Top C# Interview Questions And Answers | C# Interview Preparation | C# Training | Simplilearn""></iframe>",32077,506,2780000,Simplilearn,Top C# Interview Questions And Answers | C# Interview Preparation | C# Training | Simplilearn,2022-01-10,https://i.ytimg.com/vi/1u5E_GiXF9M/mqdefault.jpg,"This video covers the Top C# Interview Questions and Answers. You will learn the best C# interview questions that are frequently asked to freshers as well as experienced professionals. Learn the conceptual and practical questions to ace C# interview.  
+
+🔥 Explore our FREE Courses with Completion Certificates: https://www.simplilearn.com/skillup-free-online-courses?utm_campaign=C#InterviewQuestions&utm_medium=Description&utm_source=youtube
+
+✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH
+
+⏩ Check out the C++ Programming training videos: https://www.youtube.com/playlist?list=PLEiEAq2VkUUKqiV3x0XzAuMtlvyYxHuin
+
+#CSharpInterviewQuestions #CSharpInterviewQuestionsAndAnswers #CSharpInterviewPreparation #C#TutorialForBeginners #C#ProgrammingLanguage #WhatIsCSharpProgrammingLanguage #CSharpTutorial #CSharpTutorialForBeginners #LearnProgramming #Simplilearn 
+
+What is C# programming language?
+C# (C Sharp) is a multi-paradigm, general-purpose programming language. C# programming language encompasses the programming disciplines of static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented.
+
+What is C# application?
+C# is a popular programming language for creating desktop applications, web applications, and web services. It is widely used in the development of Microsoft applications on a large scale. C# is also used in Unity game development.
+Net framework is a ground-breaking platform that allows you to create the following types of applications:
+Applications for Windows
+Web-based applications
+Web-based services
+Net framework applications are cross-platform in nature. 
+
+✅What is C# Programming? 
+C# is a modern, object-oriented, general-purpose programming language that is pronounced ""C sharp."" It was created inside the.Net project by Microsoft, led by Anders Hejlsberg and his team, and was authorised by the European Computer Manufacturers Association (ECMA) and the International Standards Organization (ISO). C# is one of the languages supported by the Common Language Infrastructure, and the current version is 7.2. C# is syntactically similar to Java and is simple for users who are familiar with C, C++, or Java.
+
+✅C# Career Prospects:
+With just C# programming expertise, you will have excellent job opportunities, salaries, and career prospects. However, for a career based on programming languages such as Java and Python (which are in more demand than C#) or for careers based on front-end, back-end, and full-stack development, you will go a lot further with C# expertise. Furthermore, in development domains such as software testing, you are expected to know C#. C# gives us more Edge over other languages because of its .Net Framework integration.
+
+👉To know about C++ programming, visit: https://www.simplilearn.com/c-plus-plus-programming-for-beginners-article?utm_campaign=C#InterviewQuestions&utm_medium=Description&utm_source=youtube
+
+🔥 Explore our FREE Courses with Completion Certificates: https://www.simplilearn.com/skillup-free-online-courses?utm_campaign=C#InterviewQuestions&utm_medium=Description&utm_source=youtube
+
+For more updates on courses and tips follow us on:
+- Facebook: https://www.facebook.com/Simplilearn 
+- Twitter: https://twitter.com/simplilearn 
+- LinkedIn: https://www.linkedin.com/company/simplilearn/
+- Website: https://www.simplilearn.com 
+- Instagram: https://www.instagram.com/simplilearn_elearning
+- Telegram Mobile: https://t.me/simplilearnupdates
+- Telegram Desktop: https://web.telegram.org/#/im?p=@simplilearnupdates
+
+Get the Simplilearn app: https://simpli.app.link/OlbFAhqMqgb
+
+🔥🔥 Interested in Attending Live Classes? Call Us: IN - 18002127688 / US - +18445327688",PT37M10S,C#
+i7h92cR_8dA,UNIT TESTING en BACKEND 🤘 | C# .NET,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/i7h92cR_8dA?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""UNIT TESTING en BACKEND 🤘 | C# .NET""></iframe>",21979,2169,130000,hdeleon.net,UNIT TESTING en BACKEND 🤘 | C# .NET,2022-03-30,https://i.ytimg.com/vi/i7h92cR_8dA/mqdefault.jpg,"En este video te daré una introducción a backend y pruebas unitarias
+
+00:00 Introducción
+00:40 Creación de proyecto backend
+01:30 Creación de modelo
+01:50 Creación de capa de servicios
+05:12 Inyección de dependencias del servicio
+07:25 Creación de controller
+12:00 Creación del proyecto para pruebas unitarias y configuración
+15:10 Creación de primera prueba
+17:35 Creación de segunda prueba
+21:10 Más pruebas
+
+💻 CURSO de Patrones de Diseño en C# y ASP .Net: https://www.udemy.com/course/aprender-patrones-de-disenos-aplicados-en-asp-net/?referralCode=11528C0122AD145CE970
+
+💻 CURSO de C# .Net: https://www.udemy.com/course/curso-de-csharp/?referralCode=64540A5EA308E4FCA4CE
+
+Si quieres apoyarme y darme para una cerveza puedes hacerlo por aquí: http://paypal.me/HectorDeLeonGuevara
+
+Puedes apoyarme desde 0.5 USD al mes uniéndote como miembro al canal aquí: https://www.youtube.com/channel/UCDUdeFslCNoM29MAlZOfdWQ/join
+
+Sígueme en Twitter ⇒  https://twitter.com/powerhdeleon
+Sígueme en Facebook ⇒ https://www.facebook.com/hdeleon666
+Mi Sitio web ⇒ http://hdeleon.net
+
+La falta de respeto tanto a mí como a cualquier otra persona y el SPAM son razones de bloqueo en mi canal.
+
+#programación",PT27M4S,C#
+f9p6iA2rB58,"What's new in C#? Exciting new features in C# 8.0, 9.0 and 10! - Filip Ekberg - NDC London 2022","<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/f9p6iA2rB58?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""What&#39;s new in C#? Exciting new features in C# 8.0, 9.0 and 10! - Filip Ekberg - NDC London 2022""></iframe>",4505,127,152000,NDC Conferences,"What's new in C#? Exciting new features in C# 8.0, 9.0 and 10! - Filip Ekberg - NDC London 2022",2022-07-25,https://i.ytimg.com/vi/f9p6iA2rB58/mqdefault.jpg,"With every iteration of C#, we get more and more features that are meant to make our lives as developer a lot easier. Let's explore what's new in C# 8, 9 and 10! We will look at how the language has changed and why these changes to the language will make us better C# developers, with less bugs in our code. We will cover the following features: - Nullable reference types - Pattern Matching in C# 8 and the updates made to it in C# 9 - Record types - Top level programs/statements - Init only & new()
+
+
+Check out more of our featured speakers and talks at
+https://www.ndcconferences.com
+https://ndclondon.com/",PT1H2M34S,C#
+67oWw9TanOk,C# Tutorial For Beginners & Basics - 1. Installing Visual Studio 2022 & Quick Tips,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/67oWw9TanOk?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# Tutorial For Beginners &amp; Basics - 1. Installing Visual Studio 2022 &amp; Quick Tips""></iframe>",84851,1877,30800,Teddy Smith,C# Tutorial For Beginners & Basics - 1. Installing Visual Studio 2022 & Quick Tips,2021-12-10,https://i.ytimg.com/vi/67oWw9TanOk/mqdefault.jpg,"C# Tutorial For Beginners & Basics & Visual Productivity Tips - Full Course 2022 By Teddy Smith
+
+C# Developer Discord Server here: https://discord.gg/kFVhqq9FTE
+Linkedin: https://www.linkedin.com/in/teddy-smith-015ba61a3/
+Portfolio: http://www.teddysmithdev.com
+Github: https://github.com/teddysmithdev",PT26M25S,C#
+DuNLR_NJv8U,Learn .NET MAUI - Full Course for Beginners | Build cross-platform apps in C#,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/DuNLR_NJv8U?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Learn .NET MAUI - Full Course for Beginners | Build cross-platform apps in C#""></iframe>",293826,8803,45900,James Montemagno,Learn .NET MAUI - Full Course for Beginners | Build cross-platform apps in C#,2022-05-23,https://i.ytimg.com/vi/DuNLR_NJv8U/mqdefault.jpg,"See code updates in pinned comment!
+
+Let's start our journey together to build beautiful native cross-platform apps for iOS, Android, macOS, and Windows with .NET MAUI, C#, and Visual Studio! In this full workshop, I will walk you through everything you need to know about .NET MAUI and building your very first app. You will learn the basics including how to build user interfaces with XAML, how MVVM and data binding simplify development, how to navigate between pages, access platform features like geolocation, optimize data collections, and theme your app for light theme and dark theme. This course has everything you need to learn the basics and set you up for success when building apps with .NET MAUI!
+
+Links:
+- .NET MAUI Workshop: https://aka.ms/maui-workshop
+- .NET MAUI Website: https://dotnet.microsoft.com/apps/maui?WT.mc_id=friends-0000-jamont
+- .NET MAUI Docs: https://docs.microsoft.com/dotnet/maui/?WT.mc_id=friends-0000-jamont
+- .NET MAUI on Microsoft Learn: https://docs.microsoft.com/learn/paths/build-apps-with-dotnet-maui/?WT.mc_id=friends-0000-jamont
+- .NET MAUI Community Toolkit: https://github.com/communitytoolkit/maui?WT.mc_id=friends-0000-jamont
+- .NET Community Toolkit: https://github.com/communitytoolkit/dotnet?WT.mc_id=friends-0000-jamont
+
+Relevant Videos:
+- .NET MAUI Playlist: https://www.youtube.com/playlist?list=PLwOF5UVsZWUjNR3roRK79QgBcKLyOX48I
+- What is .NET MAUI? https://www.youtube.com/watch?v=KmLQLSKqvvI
+- What is Shell? https://www.youtube.com/watch?v=dM4PhZAUhzU
+- .NET MAUI Shell Navigation: https://www.youtube.com/watch?v=8z8qz-PePlc
+- .NET MAUI Dependency Injection: https://www.youtube.com/watch?v=xx1mve2AQr4
+- ListView vs CollectionView: https://www.youtube.com/watch?v=_lVM9gpFSbw
+- MVVM Source Generators: https://www.youtube.com/watch?v=aCxl0z04BN8
+- MVVM Helpers: https://www.youtube.com/watch?v=y8ZqEOLDeo8
+- XAML 101: https://www.youtube.com/watch?v=GLfR2uosoSw
+- MVVM 101: https://www.youtube.com/watch?v=Pso1MeX_HvI
+- Gerald: https://www.youtube.com/c/GeraldVersluis
+- Nick: https://www.youtube.com/c/Elfocrash
+- .NET YT: https://www.youtube.com/dotnet
+
+Chapters:
+00:00:00 - Intro to the .NET MAUI Workshop
+00:04:10 - What is .NET MAUI & How to Install
+00:06:25 - Workshop overview
+00:08:00 - First .NET MAUI app & Architecture (slides)
+00:21:40 - Get code to build your first .NET MAUI app
+00:25:00 - .NET MAUI Project Walkthrough
+00:29:40 - Start to build first .NET MAUI app
+00:56:48 - Intro to MVVM (slides)
+01:09:30 - Implementing INotifyPropertyChanged
+01:22:30 - .NET Community Toolkit for MVVM (Source Generators)
+01:32:30 - HTTP REST Calls & JSON Deserialization
+01:43:00 - ICommand in .NET MAUI
+01:59:30 - Create our UI with XAML & MVVM
+02:16:20 - Navigation in .NET MAUI (slides)
+02:25:20 - Implementing Navigation in .NET MAUI & Passing Parameters
+02:46:00 - Building a details UI with XAML & MVVM
+02:54:10 - Modal, Back Navigation, & More
+02:58:20 - Access Platform APIs in .NET MAUI (slides)
+03:02:53 - Platform API Integration - Connectivity
+03:08:30 - Geolocation & Permissions Implementation
+03:18:50 - Open Map Integration
+03:22:40 - Platform Specifics - iOS Safe Area
+03:25:50 - CollectionView & RefreshView Overview (slides)
+03:34:00 - Implementing Pull-to-Refresh
+03:40:00 - CollectionView Layouts - Grids and more
+03:41:30 - CollectionView EmptyView
+03:45:00 - App Resources, Styles, and Themes (slides)
+03:56:20 - Implementing Light & Dark Mode
+04:06:00 - Thanks, wrap-up, and resources
+
+Join this channel to get access to perks:
+https://www.youtube.com/channel/UCENTmbKaTphpWV2R2evVz2A/join
+
+👕 Buy some swag! - https://jamesmontemagno.myspreadshop.com/
+☕️ Buy me a coffee - https://www.buymeacoffee.com/jamesmontemagno
+
+Follow:
+👨‍💻 GitHub: https://github.com/jamesmontemagno
+🦜 Twitter: https://twitter.com/jamesmontemagno
+📄 Website: https://www.montemagno.com
+📰 Newsletter: https://newsletter.montemagno.com/
+
+Disclaimer: This channel, videos, and streams are created in my spare time and are a product of me... James Montemagno! They are NOT officially affiliated or endorsed by Microsoft (my employer) in any way. Opinions and views are my own.
+
+Correction: 00:45:30 Recommended to set TextColor=""Gray"" on Label
+Correction: 01:30:00 [AlsoNotifyChangeFor] is now [NotifyPropertyChangedFor]
+Correction: 01:51:00 [ICommand] is now [RelayCommand]
+
+My Setup:
+📷 Canon M50 Mark II - https://amzn.to/3P8R7lp
+💡 Nanoleaf Elements Lights - https://amzn.to/3umwJVW
+🎙 Blue Spark Microphone - https://amzn.to/3qgtYkq
+🎙 Blue Pop Filter - https://amzn.to/3jEWM3r
+🤳 Rode Microphone Arm - https://amzn.to/2Z68AlE
+🎧 Sony MDR7306 Headphones - https://amzn.to/372jxta
+📲 Stream Deck - https://amzn.to/373Uk1n
+🖱 MX Master 2S Mouse - https://amzn.to/3d7J2gj
+⌨️ Tecware Phantom Keyboard - https://amzn.to/3aUP4y9
+
+#dotnetmaui #dotnet #beginners #workshop #ios #android #windows",PT4H8M53S,C#
+2ReKJaM2glI,C# Builder Строитель | Design Patterns,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/2ReKJaM2glI?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# Builder Строитель | Design Patterns""></iframe>",12401,726,13400,codaza,C# Builder Строитель | Design Patterns,2022-04-02,https://i.ytimg.com/vi/2ReKJaM2glI/mqdefault.jpg,"Паттерны проектирования важно и нужно знать. В этом ролике мы поговорим про design pattern Builder (Строитель) - порождающий шаблон проектирования. Поговорим о сути, посмотрим на примеры и сделаем реализацию в Visual Studio 2022 и .NET 6. Заходите, будет интересно и станет понятно 🙂
+
+Исходный код проекта на GitHub: https://github.com/codaza/Reporter
+
+Telegram канал: https://t.me/codaza
+
+На кофе ☕️: https://pay.cloudtips.ru/p/179d0532
+Patreon: https://www.patreon.com/codaza
+Boosty: https://boosty.to/codaza
+
+0:00 - Начало
+0:55 - Builder это порождающий паттерн
+1:31 - Проблема если не использовать паттерн Builder
+4:20 - Решение которое предлагает паттерн Builder
+6:43 - Анатомия Builder
+10:32 - Поддержка канала
+10:54 - Live example
+11:45 - Пример: Создаём проект в Visual Studio 2022 (.NET6)
+28:11 - Пример: Рефакторинг Builder на Fluent Builder
+
+#builder #designpatterns #gof #csharp #net6 #паттерныпроектирования #codaza #builderpattern #builderdesignpattern",PT30M4S,C#
+fudZFG-Cm0Y,C# Factory Method Фабричный Метод | Design Patterns,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/fudZFG-Cm0Y?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# Factory Method Фабричный Метод | Design Patterns""></iframe>",17235,998,13400,codaza,C# Factory Method Фабричный Метод | Design Patterns,2021-12-04,https://i.ytimg.com/vi/fudZFG-Cm0Y/mqdefault.jpg,"Паттерны проектирования важно и нужно знать. В этом ролике мы поговорим про design pattern Factory Method (Фабричный метод) - порождающий шаблон проектирования. Поговорим о сути, посмотрим на примеры и сделаем реализацию в Visual Studio 2022 и .NET 6. Заходите, будет интересно и станет понятно 🙂
+
+Исходный код проекта на GitHub: https://github.com/codaza/FitnessClub
+
+Telegram канал: https://t.me/codaza
+
+На кофе ☕️: https://pay.cloudtips.ru/p/179d0532
+Patreon: https://www.patreon.com/codaza
+Boosty: https://boosty.to/codaza
+
+0:00 - Начало
+0:48 - Factory Method это порождающий паттерн
+1:25 - Концепция Factory Method
+6:52 - Недостатки Factory Method
+8:07 - Анатомия Factory Method
+9:59 - Live example
+10:52 - Пример: Создаём проект в Visual Studio 2022 (.NET6)
+11:18 - Пример: Создаём абонементы
+16:47 - Пример: Создаём фабрики
+22:24 - Пример: Используем фабрики в клиентском коде
+32:33 - Завершение
+
+#factorymethod #designpatterns #ityoutubers #ITubeTeam #gof #csharp #net6 #паттерныпроектирования #codaza",PT33M15S,C#
+fuBi4d7k1-M,Visual Studio Code for C# Developers | .NET Conf 2022,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/fuBi4d7k1-M?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Visual Studio Code for C# Developers | .NET Conf 2022""></iframe>",26197,643,212000,dotnet,Visual Studio Code for C# Developers | .NET Conf 2022,2022-11-12,https://i.ytimg.com/vi/fuBi4d7k1-M/mqdefault.jpg,"If you're a C# developer who wants to work in a fast editor environment, and also wants to learn more C# as you go, I think you should learn VS Code for C# development. I'll explain how VS Code will help you become a more productive C# developer. I'll show you how to set up and use VS Code for .NET development, how to .NET CLI in the integrated terminal, and show you some tips and tricks for efficient C# development.
+
+https://www.dotnetconf.net
+#DotNet #dotnetconf #dotnet7
+
+🙋‍♀️🙋‍♂️ Get your questions answered on the Microsoft Q&A for .NET: https://aka.ms/dotnet-qa
+
+🏫 Learn C#, F#, and .NET with free self-guided learning from Microsoft Learn: https://aka.ms/learndotnet",PT26M33S,C#
+PWAQMDlSE2w,НАТИВ / C# - разбор вопросов с собеседований / Миша Масный,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/PWAQMDlSE2w?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""НАТИВ / C# - разбор вопросов с собеседований / Миша Масный""></iframe>",7143,256,10800,TeachMeSkills Школа программирования,НАТИВ / C# - разбор вопросов с собеседований / Миша Масный,2022-06-21,https://i.ytimg.com/vi/PWAQMDlSE2w/mqdefault.jpg,"#teachmeskills #ityoutubersru #войтивайти
+🤚Привет! Это НАТИВ! Сегодня вечером поговорим об Айти и не только. 
+🧐Очередное видео из нашей рубрики «Разбор вопросов с собеседований»! И на этот раз обсудим C# и .Net. 
+Поможет во всем разобраться мой гость - наш  наставник по C# и девелопер с большим опытом Михаил Масный. 
+
+❗️Ссылка на курс С# (.Net)-разработчик - https://teachmeskills.by/kursy-programmirovaniya/kursy-asp-net-online
+🧔Профайл Михаила - https://www.linkedin.com/in/mikhail-masny/ 
+🧔Telegram Ильи (для ваших предложений по контенту) - @ilyarublevsky
+
+Что еще будет в видео👇
+0:00 - Интро 
+1:10 - Немного о себе 
+2:45 - Немного про C# и .Net 
+4:15 - Что такое CLR 
+6:14 - Про типы данных 
+8:54 - Тип значения и тип ссылки 
+12:00 - Отличие класса от абстрактного класса 
+14:00 - Про делегат и event 
+17:14 - Про дженерики 
+18:50 - Что такое Array, List, HashSet, Dictionary?
+20:29 - Что такое IQueryable и IEnumerable?
+24:43 - Про рефлексию 
+25:35 - Сборщик мусора 
+27:40 - Отличие асинхронности от многопоточности 
+32:23 - Про ASP.Net 
+38:15 - Про будущее:)
+38:45 - Еще про вопросы с собеседований",PT46M14S,C#
+hH_yQq7R-aU,Introduction to C# (Hindi) | Learn Coding,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/hH_yQq7R-aU?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Introduction to C# (Hindi) | Learn Coding""></iframe>",125258,2856,1470000,Learn Coding,Introduction to C# (Hindi) | Learn Coding,2021-12-20,https://i.ytimg.com/vi/hH_yQq7R-aU/mqdefault.jpg,"Please Subscribe our Channel....!
+Learn Coding
+🙏🙏🙏
+
+Like our Facebook Page...!
+Learn Coding
+
+Don't forget to tag Our Channel..!
+#C#_Introduction
+#LearnCoding
+#ask4help
+#CSharp
+#CSharpProgramming
+#HistoryOfCSharp
+#CSharpLanguage
+
+
+Your Queries :)
+
+
+introduction to c#
+
+what is c sharp?
+
+c# in hindi 
+
+introduction to c#.net
+
+c# introduction 
+
+what is c#
+
+
+
+Voice 🔊:-  Akhilesh
+Writer ✍:-  Ankush
+
+-------------------------
+   Thank You 😊 
+---‐‐---------------‐----",PT21M33S,C#
+8j5YBZ-c2uU,Что выбрать в 2022 году: C# или Python?,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/8j5YBZ-c2uU?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Что выбрать в 2022 году: C# или Python?""></iframe>",184367,7355,331000,Sergey Nemchinskiy,Что выбрать в 2022 году: C# или Python?,2022-05-27,https://i.ytimg.com/vi/8j5YBZ-c2uU/mqdefault.jpg,"👨🏻‍💻 Более 5000 вакансий для программистов из Украины на Just Join IT! Проверь на https://bit.ly/3MQ015L.
+
+👉🏻 Подпишись на канал Just Join IT на Телеграме - https://bit.ly/3MbGqN5.
+
+Вакансии в С#: https://bit.ly/3z2pGEw.
+
+Вакансии в Python: https://bit.ly/3MQ0wg9.
+
+Сравнение языков программирования - то чем занимается любой wanna be разработчик. Сегодня детально сравним C# и Python.
+
+Есть вопросы по обучению в FoxmindEd? Пишите нам в телеграм - https://t.me/foxminded
+
+Вы можете стать спонсором канала и получать плюшки  - https://www.youtube.com/channel/UCVbz7l0COUdLupcY4YtYH0w/join
+
+😱 ДО КІНЦЯ АКЦІЇ ЗАЛИШИЛОСЯ 6 ДНІВ 😱
+JAVA START, JAVA TOOLS, C# START, PYTHON START ІЗ ЗНИЖКОЮ 50%. ДЛЯ ВСІХ ГРОМАДЯН УКРАЇНИ!
+Любі наші!
+Ми надаємо знижку 50% на стартові курси для всіх громадян України (знижка діятиме і на курс Python Start, який стартує у найближчі кілька тижнів), адже саме так ми можемо вкласти свій ресурс у майбутнє нашої країни.
+За часів війни ми дружньо не маємо опускати руки.
+Саме час, щоб працювати і сплачувати податки нашій країні, час навчатись IT, щоб після перемоги бути корисною людиною для нашої Батьківщини.
+Java Start, Java Tools, C# Start, Python Start - наші стартові курси включають в себе тільки корисну інформацію, ніякої води – те, що вам реально знадобиться, адже саме зараз важливо не витрачати час на інформацію, яка нікому не потрібна!
+Java Start  - 975 грн, замість 1950 грн
+Java Tools – 1475 грн, замість 2950 грн
+C# Start - 975 грн, замість 1950 грн
+Python Start - 975 грн, замість 1950 грн
+Алгоритми і структури данних - 1475 грн, замість 2950 грн
+
+Знижки діють до 1 червня 2022 року
+
+❤ FoxmindEd в Instagram: https://www.instagram.com/foxminded.ua/
+
+Курсы для новичков:
+🎓JAVA - https://bit.ly/3z9UuTw
+🎓JAVA Start - https://bit.ly/3GmUMs3
+🎓PYTHON - https://bit.ly/3wPoToG
+🎓PYTHON Start - https://bit.ly/3PINwLf
+🎓C#/.NET - https://bit.ly/38T4UMO
+🎓C# START - https://bit.ly/3Gro2xz
+🎓Инструментарий JAVA - https://bit.ly/38rrDzm
+🎓Automation QA (Java) - https://bit.ly/3GpSoR5
+🎓ANDROID - https://bit.ly/3MVUWcb
+🎓FRONT-END (ANGULAR) - https://bit.ly/3t1w6zE
+🎓FRONT-END (REACT) - https://bit.ly/38tqMhG
+🎓SALESFORCE Developer - https://bit.ly/3Nz0pWc
+🎓UI/UX дизайн - https://bit.ly/38ogE9T
+🎓GAME DEVELOPMENT - https://bit.ly/3lKujLw
+🎓IOS разработка - https://bit.ly/3PLCwg7
+🎓PHP - https://bit.ly/3wKw0h2
+🎓Обучение на проекте - https://bit.ly/38QJ5xm
+🎓Unity - https://bit.ly/3lQHiv0
+🎓NODE.JS - https://bit.ly/3GqqIvB
+🎓GOLANG - https://bit.ly/3PNtOOD
+ 
+Продвинутые курсы для состоявшихся девелоперов: 
+🎓Enterprise patterns - https://bit.ly/3wYFci6
+🎓GRASP and GoF Design patterns - https://bit.ly/38rrw6U
+🎓Алгоритмы и структуры данных - https://bit.ly/3Gn89Zb
+ 
+🔧 Пробное техническое собеседование со специалистом уровня Senior Developer/ Team Leader - https://bit.ly/3wRhjdb
+
+👔 Карьерная консультация с Сергеем Немчинским - https://bit.ly/3wVTQpY
+ 
+Сайт FoxmindEd: https://bit.ly/3PKJCRY
+FoxmindEd в ФБ: https://www.facebook.com/foxmindedco 
+FoxmindEd в Instagram: https://www.instagram.com/foxminded.ua/
+Мой Telegram: https://t.me/nemchinskiyOnBusiness 
+Для деловых запросов: youtube@foxminded.ua
+
+Тайминг:
+00:00 - вступление
+00:31 - дисклеймер
+01:47 - Just Join IT
+02:52 - области применения Python
+04:45 - создание веб приложений
+07:24 - области применения С#
+10:44 - зарплаты 
+12:21 - синтаксис
+15:33 - вакансии
+17:55 - фреймворки
+20:41 - разработка под Windows
+21:28 - перспективы языков",PT28M27S,C#
+WYGN2V1yHDo,Aprenda Programação C# para Jogos na Unity,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/WYGN2V1yHDo?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Aprenda Programação C# para Jogos na Unity""></iframe>",1793,178,1420,Desenvolvedor Unity,Aprenda Programação C# para Jogos na Unity,2022-11-05,https://i.ytimg.com/vi/WYGN2V1yHDo/mqdefault.jpg,"Aprenda neste tutorial o básico sobre programação C# para criar jogos na Unity Engine. Vamos aprender sobre variáveis, métodos, scripts, condições if, comentários, funções nativas da Unity e muito mais.
+
+A Unity é uma das maiores engines de desenvolvimento de jogos do mundo. E dentro dela utilizamos o C# como linguagem de programação e é através dele que criamos todas as interações, lógicas e mecânicas que queremos em nossos jogos. Portanto é fundamental a gente aprender como usar a linguagem C#.
+
+#unity #criarjogos #desenvolvedorunity",PT20M39S,C#
+_QbbstNuTGI,"Стоит ли учить C#, чтобы делать игры?","<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/_QbbstNuTGI?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Стоит ли учить C#, чтобы делать игры?""></iframe>",163001,9081,211000,Лёша Корепанов,"Стоит ли учить C#, чтобы делать игры?",2022-01-20,https://i.ytimg.com/vi/_QbbstNuTGI/mqdefault.jpg,"Арендуйте сервер Mac Mini на М1 в Selectel для iOS-разработки и тестирования: https://slc.tl/pZZju
+Статья по архитектуре в Unity: https://unity.com/how-to/how-architect-code-your-project-scales
+Таймкоды
+0:00 Начало
+0:21 Глава 1. Junior Unity developer
+1:58 Как выпустить приложение под iOS не покупая Mac [Реклама]
+4:50 Истории программистов
+7:35 Глава 2. Unity Middle developer
+12:34 Еще одна история
+14:37 Глава 3. Senior developer
+19:46 Заключение",PT20M46S,C#
+qkslbeTH_pw,C# full course in telugu in 1 hour | Complete C Sharp | Vamsi Bhavani,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/qkslbeTH_pw?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# full course in telugu in 1 hour | Complete C Sharp | Vamsi Bhavani""></iframe>",39212,1160,301000,Vamsi Bhavani,C# full course in telugu in 1 hour | Complete C Sharp | Vamsi Bhavani,2022-07-08,https://i.ytimg.com/vi/qkslbeTH_pw/mqdefault.jpg,"BOOK a FREE DEMO here 🔥:- https://bit.ly/CCBP_FREE_DEMO_VAMSI_BHAVANI_JUINT1V
+
+In this video, complete C# language is explained in 1 hour. This C Sharp full course includes dot net basics, dot net architecture, variables, data types, operators, functions, namespace, comments, if, else if, else, while loop, for loop, do while loop, classes and objects, inheritance, polymorphism, encapsulation, abstraction in just one hour. All this is explained in telugu. Hope you all like it.
+
+Dot Net Video: https://youtu.be/qFrMA_af8xM
+Binary Decimal Conversions: https://youtu.be/zqE2T_5MXLc
+
+👉 CCBP 4.0 Intensive program is for final years and graduates to learn and get a software job with 4.5 to 9 LPA👨🏻‍💻.
+
+👉 Thousands of CCBP 4.0 learners have proved that nothing matters to get a software job 👨🏻‍💻  except your willingness to learn 📚 . Read their stories here ccbp.in/reviews
+
+Jai Hind!!!",PT57M58S,C#
+1HC5qapv6Qw,EP81 - Tudo que um desenvolvedor .NET C# backend precisa saber!,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/1HC5qapv6Qw?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""EP81 - Tudo que um desenvolvedor .NET C# backend precisa saber!""></iframe>",14534,1369,2820,"Robinson, o Programador",EP81 - Tudo que um desenvolvedor .NET C# backend precisa saber!,2022-01-21,https://i.ytimg.com/vi/1HC5qapv6Qw/mqdefault.jpg,"GitHub do MoienTajik
+https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+
+Aqui no canal eu falo de todos os temas relacionados ao mundo do desenvolvimento de software, das tecnologias que nos rodeiam, padrões de desenvolvimento, arquitetura de software e conceitos.
+
+Meu objetivo é abrir a sua mente e te mostrar o quanto esse mundo é vasto e divertido de explorar!",PT24M49S,C#
+l2KPFFIyfOs,PayPal integration Step by step in asp.net Web Api C#,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/l2KPFFIyfOs?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""PayPal integration Step by step in asp.net Web Api C#""></iframe>",2327,232,546,Code Learner,PayPal integration Step by step in asp.net Web Api C#,2022-10-14,https://i.ytimg.com/vi/l2KPFFIyfOs/mqdefault.jpg,"Paypal Integration And Authentication 
+Paypal Sandbox And Live API
+Get PayPal transaction History
+How to call PayPal API in Postman
+How to integrate PayPal API in asp.net C#
+
+
+#paypal #asp #gateway #api 
+#asp
+#asp.net
+#angular 
+#react 
+#dot.net core
+#sql 
+#sqlserver 
+#asp.net MVC",PT23M31S,C#
+vsmEKldaUe0,Upgrading My Roguelite C# Game to Godot 4,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/vsmEKldaUe0?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Upgrading My Roguelite C# Game to Godot 4""></iframe>",8424,437,5460,Firebelley Games,Upgrading My Roguelite C# Game to Godot 4,2022-12-17,https://i.ytimg.com/vi/vsmEKldaUe0/mqdefault.jpg,"In this devlog, I walkthrough the my experience upgrading my large C# game to Godot Engine 4. This video is technical and contains a lot of information. If you're a Godot developer and use C#, you may find this video helpful!
+
+Here are the libraries mentioned in the video:
+https://github.com/firebelley/GodotUtilities
+https://github.com/firebelley/godot-addons
+
+📰 Sign up for my newsletter: https://firebelley.com
+
+📖 Learn Godot with my Udemy course: https://www.udemy.com/course/create-a-complete-2d-platformer-in-the-godot-engine/?referralCode=A2180102813715F70D75
+
+🎮 Pick up one of my games:
+https://store.steampowered.com/search/?sort_by=_ASC&developer=Firebelley
+https://store.steampowered.com/app/1330940/Sword_Slinger/
+https://firebelley.itch.io/sword-slinger
+
+➡️ Follow me on Twitter: https://twitter.com/firebelley
+➡️ Steam: https://store.steampowered.com/search/?developer=Firebelley
+➡️ Itch.io: https://firebelley.itch.io/
+
+#Godot #gamedev",PT25M26S,C#
+0kGeaO3WRGs,APRENDE a consumir un SERVICIO WEB SOAP con C# .NET,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/0kGeaO3WRGs?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""APRENDE a consumir un SERVICIO WEB SOAP con C# .NET""></iframe>",6109,723,398,XperTek,APRENDE a consumir un SERVICIO WEB SOAP con C# .NET,2022-08-13,https://i.ytimg.com/vi/0kGeaO3WRGs/mqdefault.jpg,"Aprende a implementar interoperabilidad entre sistemas, por medio de servicios web SOAP.
+Implementamos con C# .NET para consumir un servicio web e prueba.
+Para que realicen pruebas con SOAPUI y practiquen implementando una aplicación que consuma un servicio web SOAP pueden utilizar alguno de los siguientes enlaces:
+http://www.dataaccess.com/webservicesserver/numberconversion.wso?WSDL
+http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL
+
+Déjenme sus dudas o consultas en los comentarios del vídeo.",PT34M41S,C#
+T9BeejD3i0g,【C#】3小時初學者教學 ｜Csharp ｜ C# 教學 ｜ C# 入門 | C++++,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/T9BeejD3i0g?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""【C#】3小時初學者教學 ｜Csharp ｜ C# 教學 ｜ C# 入門 | C++++""></iframe>",634054,8082,144000,GrandmaCan -我阿嬤都會,【C#】3小時初學者教學 ｜Csharp ｜ C# 教學 ｜ C# 入門 | C++++,2021-10-08,https://i.ytimg.com/vi/T9BeejD3i0g/mqdefault.jpg,"C#
+C# 教學
+C# 入門
+Csharp
+C++++
+
+⭐️ 目錄 ⭐️
+⌨️ (0:00:00)​  讚啦!
+⌨️ (0:00:09)​  環境建置、第一支程式 (Windows)
+⌨️ (0:06:00)​  環境建置、第一支程式 (Mac)
+⌨️ (0:12:41​)  常見資料型態 & 變數
+⌨️ (0:34:04​)  string 字串用法
+⌨️ (0:48:40​)  數字用法
+⌨️ (0:56:07​)  取得用戶輸入
+⌨️ (1:01:21​)  建立基本計算機
+⌨️ (1:07:46​)  array 陣列
+⌨️ (1:15:28​)  if 判斷句
+⌨️ (1:34:24​)  建立進階計算機
+⌨️ (1:40:29​)  while 迴圈
+⌨️ (1:48:45​)  猜數字遊戲
+⌨️ (1:57:23​)  for 迴圈
+⌨️ (2:04:48​)  二維陣列
+⌨️ (2:11:45​)  class 類別 & object 物件
+⌨️ (2:21:02​)  namespace、using
+⌨️ (2:27:47​)  method 方法
+⌨️ (2:41:28​)  Main 方法
+⌨️ (2:46:07)  constructor 建構方法
+⌨️ (2:53:59)  getter、setter
+⌨️ (3:03:23​)  static attribute 靜態屬性
+⌨️ (3:08:04​)  static method 靜態方法 & static class 靜態類別
+⌨️ (3:12:23​)  繼承 inheritance
+
+python 初學者教學 : https://youtu.be/zdMUJJKFdsU
+html 初學者教學 : https://youtu.be/CLUPkcLQm64
+css 初學者教學 : https://youtu.be/Ml78vnNTBLw
+js 初學者教學 : https://youtu.be/yZwlW5INhgk
+sql 初學者教學 : https://youtu.be/gvRXjsrpCHw
+
+#Csharp
+
+
+c#,c# 入門,c# 物件導向,c# 教學,c#教学,c#教程,c#编程,visual studio,visual studio 2019 教學,c# 課程,c#课程,c#入门,c# 安裝,c#安装,c sharp教學,c sharp 教学,c sharp 教程,c sharp 入門,c sharp 入门,c# list,c# online,learn c#,c sharp,c# programming,c# tutorial,compiler c# online,trycatch c#",PT3H18M42S,C#
+WSBy_Ypgk38,"CRUD with MVP pattern, C#, WinForms and SQL Server","<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/WSBy_Ypgk38?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""CRUD with MVP pattern, C#, WinForms and SQL Server""></iframe>",53571,927,34500,RJ Code Advance EN,"CRUD with MVP pattern, C#, WinForms and SQL Server",2022-04-10,https://i.ytimg.com/vi/WSBy_Ypgk38/mqdefault.jpg,"⏭️ Next Video: Part 2- CRUD with MVP pattern, C#, WinForms and SQL Server
+https://youtu.be/wa_QqWYgQYY
+
+🎞️ Current Video: Part 1- CRUD using the Model-View-Presenter (MVP) pattern, C-Sharp, Windows Forms and SQL Server.
+Content:
+00:00 Introduction
+04:10 Database
+05:03 Model
+05:54 Data validations
+07:45 IRepository
+08:40 View
+17:00 Presenter
+
+⬇️ Download project
+https://rjcodeadvance.com/crud-con-patron-mvp-c-sql-y-windows-forms-parte-1/
+
+📲 Social Media:
+Facebook: https://facebook.com/rjcodeadvanceEN
+Instagram: https://instagram.com/rjcodeadvanceEN
+Website: https://rjcodeadvance.com
+
+#️⃣ Hashtags
+#MVP #Pattern #WindowsForm #DIP #SOLID #DI #ModelViewPresenter  #ModernForm  #ModernUI #CSharp #VisualBasic #VB.NET #VisualStudio #Desktop #DesignPatterns #ArchitecturePatterns #SofwarePatterns",PT23M35S,C#
+q3t7h3lvRU0,Alocação de memória | C# Avançado | Pilhas de memórias Stack e Heap,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/q3t7h3lvRU0?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Alocação de memória | C# Avançado | Pilhas de memórias Stack e Heap""></iframe>",1018,86,1160,Central dotNET,Alocação de memória | C# Avançado | Pilhas de memórias Stack e Heap,2022-01-27,https://i.ytimg.com/vi/q3t7h3lvRU0/mqdefault.jpg,"Nesse vídeo vamos bater um papo sobre alocação de memória dentro da plataforma .NET. Tipos de pilha, diferenças entre classes e estruturas além de falarmos de ponteiros.
+
+Repositorio - https://github.com/diegostan/AlocacaoMemoria
+
+#microsoft #dotnet #csharp",PT24M20S,C#
+4aZlCAdkmio,EP85 - Xunit no .NET / C#  Exemplos de código de todas as funcionalidades. Teste unitário,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/4aZlCAdkmio?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""EP85 - Xunit no .NET / C#  Exemplos de código de todas as funcionalidades. Teste unitário""></iframe>",2242,165,2820,"Robinson, o Programador",EP85 - Xunit no .NET / C#  Exemplos de código de todas as funcionalidades. Teste unitário,2022-02-23,https://i.ytimg.com/vi/4aZlCAdkmio/mqdefault.jpg,"Playlist sobre C#: 
+https://youtube.com/playlist?list=PLhNHB_JNZlC2pxY6eNw1YkvU7WszP_pxR
+
+
+Aqui no canal eu falo de todos os temas relacionados ao mundo do desenvolvimento de software, das tecnologias que nos rodeiam, padrões de desenvolvimento, arquitetura de software e conceitos.
+
+Meu objetivo é abrir a sua mente e te mostrar o quanto esse mundo é vasto e divertido de explorar!",PT37M58S,C#
+v8bqAm4aUFM,Where’s C# headed? - Mads Torgersen - NDC Copenhagen 2022,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/v8bqAm4aUFM?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Where’s C# headed? - Mads Torgersen - NDC Copenhagen 2022""></iframe>",26378,650,152000,NDC Conferences,Where’s C# headed? - Mads Torgersen - NDC Copenhagen 2022,2022-08-17,https://i.ytimg.com/vi/v8bqAm4aUFM/mqdefault.jpg,"Let’s take an early look at C# 11, which is scheduled to release in November. Static virtual members in interfaces will allow for much better generic abstraction over math, as well as more direct expression of abstract factories, strategies, etc.
+
+We’re also adding list patterns to pattern matching, a mechanism to require initialization of members, and “raw” string literals to avoid escaping, just to name a few. Finally we'll peek a little further into the future at some features we’re working on that will take longer to get right.
+
+
+Check out more of our featured speakers and talks at
+https://www.ndcconferences.com
+https://ndccopenhagen.com/",PT1H1M28S,C#
+2sqyd-qtHYg,C# IEnumerable & IEnumerator,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/2sqyd-qtHYg?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# IEnumerable &amp; IEnumerator""></iframe>",20303,1032,60600,Tarodev,C# IEnumerable & IEnumerator,2021-11-28,https://i.ytimg.com/vi/2sqyd-qtHYg/mqdefault.jpg,"IEnumerable and IEnumerator play an integral part in your day-to-day development, whether you know about them or not! They can also yield strange results if you don't know how they work. 
+
+In this video I'll show you what they do, how they work and how you can create your own enumerable classes.
+
+This video is sponsored by Jet brains. Check out their amazing software suite here: https://jb.gg/vp1aem
+
+
+
+❤️ Become a Tarobro on Patreon: https://www.patreon.com/tarodev
+
+=========
+
+🔔 SUBSCRIBE: https://bit.ly/3eqG1Z6
+🗨️ DISCORD: https://discord.gg/tarodev
+✅ MORE TUTORIALS: https://www.youtube.com/tarodev
+
+
+00:00 - Intro
+00:20 - First example (Heroes of Olympus)
+4:00 - Second example (Query behaviour / Random)
+6:16 - ToList() tradeoffs - pros & cons
+8:03 - ToList() example
+9:24 - Example benchmark
+11:33 - IDE love
+13:30 - One at a time
+16:45 - Linq benefits on IEnumerables
+18:00 - Custom IEnumerator
+21:41 - Generic IEnumerator for Linq queries
+23:56 - Summary",PT25M15S,C#
+FyNRzS9xQZQ,C# Tutorial | kompletter Kurs für Anfänger,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/FyNRzS9xQZQ?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# Tutorial | kompletter Kurs für Anfänger""></iframe>",178097,3122,142000,Programmieren lernen,C# Tutorial | kompletter Kurs für Anfänger,2021-10-27,https://i.ytimg.com/vi/FyNRzS9xQZQ/mqdefault.jpg,"Kostenloses Beratungsgespräch: https://weiterbildung.developerakademie.com/y
+
+In diesem C# Tutorial lernst du alles, was du brauchst um deine eigenen Programme mit C# zu schreiben. Wenn du C# lernen willst, dann ist dieser komplette Einsteigerkurs genau das, was du brauchst.
+
+Quellcode: https://github.com/JunusErgin/c--tutorail (suche die .cs Dateien)
+
+00:00 | Intro
+01:15 | Was ist C#
+04:50 | Installation
+06:58 | Erstes Programm
+14:25 | Variablen
+24:31 | Rechnen mit Variablen
+32:06 | Funktionen
+41:13 | Funktionsparameter
+54:02 | Kommentare
+57:34 | Globale Variablen
+01:10:40| Probleme googlen
+01:14:47 | Verzweigungen
+01:27:08 | Arrays
+01:36:34 | Schleifen
+01:40:26 | GUI
+01:58:49 | Rechnungsprogramm mit GUI
+02:08:43 | Programm fertigstellen
+02:16:40 | Extra Übung
+02:18:07 | Wie geht es weiter?
+
+
+
+
+
+Instagram: https://www.instagram.com/junus.ergin/ (Junus Ergin)
+Tiktok: https://www.tiktok.com/@herr_programmierer (Herr Programmierer)
+
+_____ Über diesen Kanal ____
+Die Developer Akademie bildet dich zum Programmierer weiter. Auch wenn du noch NIE eine Zeile Code geschrieben hast, ist es möglich in 3 - 6 Monaten einen gut bezahlten Job zu finden. Dafür musst du NICHT nur programmieren mit Online-Tutorials lernen, sondern einen guten LEBENSLAUF mit vielen verschiedenen Projekten vorweisen. In unserem Programm hast du ständigen Kontakt zu unseren Coaches, Hausaufgaben, Abgabefristen und Projekte aus der Praxis für deinen Lebenslauf.
+Am Ende erstellen wir mit dir einen perfekten Lebenslauf und unterstützen dich bei deiner Bewerbung.
+Informiere dich auf https://weiterbildung.developerakademie.com/y",PT2H19M33S,C#
+3XRLIEyKHMg,Aprende API REST con C# en .NET 6 - gratis,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/3XRLIEyKHMg?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Aprende API REST con C# en .NET 6 - gratis""></iframe>",9483,508,16000,Codigo 369,Aprende API REST con C# en .NET 6 - gratis,2022-09-29,https://i.ytimg.com/vi/3XRLIEyKHMg/mqdefault.jpg,"*Grupo telegram para html + javascript y REACT: https://t.me/htmlycss369
+
+-Acceso a 24 Proyectos disponibles de html y css en: https://www.udemy.com/course/curso-intensivo-de-html-y-css-camino-hacia-react/?couponCode=6FDBFC6DF0E9AA7958EA
+-Acceso a +20 proyectos de javascript en: https://www.udemy.com/course/javascript-intensivo-camino-hacia-react/?couponCode=2789520A1FCF70D93F96
+*Grupo de html y javascript y REACT en telegram: https://t.me/htmlycss369
+*Nuevo curso de REACT: https://www.udemy.com/course/react-intensivo-desde-cero-y-actualizado-para-principiantes/?couponCode=6DDBD5AD6173DD258DEB
+*facebook: https://www.facebook.com/codigo369oficial
+
+*Todos los cursos con descuento: https://codigo369.com/",PT2H23M10S,C#
+bMBgDGNhKME,Что нового в C# 11 - новые фичи языка C#,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/bMBgDGNhKME?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Что нового в C# 11 - новые фичи языка C#""></iframe>",3326,191,5240,Platinum DEV,Что нового в C# 11 - новые фичи языка C#,2022-11-26,https://i.ytimg.com/vi/bMBgDGNhKME/mqdefault.jpg,"Код из видео: https://github.com/andreisfedotov/csharp11-features
+
+Рассматриваем основные фичи C# 11 .NET 7
+
+Мы в Telegram: https://t.me/platinum_tech_talks
+Telegram чат для всех: https://t.me/platinum_chat",PT21M,C#
+g6cl7wv6QYw,Functional Programming with C# - Simon Painter - NDC Porto 2022,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/g6cl7wv6QYw?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Functional Programming with C# - Simon Painter - NDC Porto 2022""></iframe>",6394,182,152000,NDC Conferences,Functional Programming with C# - Simon Painter - NDC Porto 2022,2022-07-20,https://i.ytimg.com/vi/g6cl7wv6QYw/mqdefault.jpg,"Functional Programming is becoming increasingly popular and relevant with each year that goes by. With so much discussion around languages such as F#, Haskell and Erlang, it can seem as though getting started with Functional programming would mean first learning a whole new syntax...but what if it didn't?
+
+Most .NET developers are familiar with the use of Linq, and basic constructs such as IEnumerable, Func delegates, arrow functions and ternary expressions, but did you know that you can use all of this to implement some of the most powerful patterns and techniques from the world of functional programming?
+
+This talk will demonstrate how, using only familiar features available in out-of-the-box C#, to write Functional code that is:
+
+* More robust
+* Easier to read
+* Easier to maintain
+
+As well as these benefits, Functional code is a great enabler for the use of concurrency with Async functions and Serverless applications with technologies such as Azure Functions.
+
+This talk might be of interest to anyone looking into moving to a new platform, or in improving the scalability of an existing application, or even just interested in seeing what Functional Programming is all about, but all within the comfort of a familiar language.
+
+We might even attempt the impossible, and explain what a Monad is!
+
+
+Check out more of our featured speakers and talks at
+https://www.ndcconferences.com
+https://ndcporto.com",PT58M10S,C#
+eUjshrMUUig,Уроки C# – Создаём Telegram бота,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/eUjshrMUUig?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Уроки C# – Создаём Telegram бота""></iframe>",35308,2058,41900,XpucT,Уроки C# – Создаём Telegram бота,2022-09-05,https://i.ytimg.com/vi/eUjshrMUUig/mqdefault.jpg,"Полный плейлист по C# ➜ https://www.youtube.com/playlist?list=PL05SB3rBbUsraqiEUeS70RKhVAu97nGeb
+
+Эксклюзив для спонсоров ➜ https://www.youtube.com/c/XpucT/join 
+Если недоступна спонсорка ➜ https://boosty.to/xpuct
+
+#csharp #telegram #bot",PT28M33S,C#
+B7Zegwc5i7Q,¿Cómo programar un videojuego? | Tutorial c# y Unity,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/B7Zegwc5i7Q?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""¿Cómo programar un videojuego? | Tutorial c# y Unity""></iframe>",23522,1513,96300,Germán Coronel,¿Cómo programar un videojuego? | Tutorial c# y Unity,2021-10-01,https://i.ytimg.com/vi/B7Zegwc5i7Q/mqdefault.jpg,"// Hola! en el primer comentario les dejo los TIMESTAMPS detallados porque es demasiado larga para la descripción jejex...
+
+Muchísimas gracias por darle clic al video, es un poco largo pero bastante explicativo. Hablamos de todo lo que necesitamos saber cuando comenzamos a programar para poder hacer cualquier videojuego que queramos.
+
+Link a la documentación sobre el orden de ejecución:
+https://docs.unity3d.com/Manual/ExecutionOrder.html
+
+Descarga gratis todos los archivos de los tutoriales:
+www.germancoronel.com
+
+Considera seguirme también en:
+
+Instagram: @_germancoronel
+Itch.io: germancoronel.itch.io
+TikTok: @_germancoronel
+Twitter: @_germancoronel
+Twitch: germancoronel_
+
+Contacto de Negocios:
+ contacto@germancoronel.com
+
+Contenido:
+0:00 Introducción
+0:11 Lo que haremos en este video
+0:50 Los 3 elementos que componen un videojuego
+1:02 ¿Qué es la ""Programación""?
+1:16 Definiendo la lógica del videojuego
+2:10 Es una traducción entre idiomas
+2:32 Creando la escena de trabajo
+5:23 Convertir la lógica en códigos
+5:38 Creando el código del Jugador
+6:10 ¿Qué es un ""nameSpace"" en Unity C#?
+7:01 ¿Qué es una ""clase"" en Unity C#?
+7:45 ¿Cómo ""comentar"" el código en Unity C#?
+8:48 Funciones de Evento Principales
+9:03 Tipos de Ejecución de las Funciones de Evento
+10:03 Orden de Ejecución de las Funciones de Evento
+10:40 ¿Qué es una variables en Unity C#?
+10:51¿Qué tipo de variables podemos usar en Unity C#?
+11:16 ¿Cómo crear una nueva variable en Unity C#?
+11:47 Diferencia entre Variable Pública y Privada
+12:24  LÓGICA DEL MOVIMIENTO DEL JUGADOR
+31:45 LÓGICA DEL COFRE
+53:12 LÓGICA DE LA PUERTA
+1:06:52 ¿Y después qué?
+1:07:44 Conclusión
+1:09:50 Considera suscribirte
+1:10:01 Micro Vlog
+
+
+
+#Unity #programacion  #Videojuegos
+#csharp #principantes #3D #Gamedev",PT1H11M10S,C#
+GxJWfNYOa2E,"Гайд как стать Junior C# программистом в 2022 году | Бесплатные курсы, книги","<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/GxJWfNYOa2E?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Гайд как стать Junior C# программистом в 2022 году | Бесплатные курсы, книги""></iframe>",161286,10995,169000,Роман Сакутин - GameDev,"Гайд как стать Junior C# программистом в 2022 году | Бесплатные курсы, книги",2022-05-02,https://i.ytimg.com/vi/GxJWfNYOa2E/mqdefault.jpg,"Пост с гайдом набрал более 1000 лайков, делаю расширенную видео версию! 
+
+Гайд по Unity будет здесь - https://t.me/sakutin_csharp/
+
+Обучение разработке игр с нуля с гарантией трудоустройства - https://ijunior.ru/unity-start?utm_source=youtube&utm_medium=video&utm_campaign=description&utm_content=guidehowtogetcsharpproffesion
+
+Моя студия Agava - https://agava.tech/
+Моя книга  - http://csharpbook.sakutin.ru
+
+ЯЮниор:
+Группа - https://vk.com/holymonkey_sandbox
+ЧАТ В ТЕЛЕГЕ - https://t.me/csharp_faggots_fan_club
+Discord - https://discord.gg/MpHGV2S
+
+00:00 - Где гайд по Unity? 
+02:30 - Концепция гайди
+03:10 - Основа программирования 
+09:05 - Алгоритмы
+10:58 - Паттерны
+14:00 - Задачка
+15:00 - Предметная область
+18:30 - Собеседование",PT22M10S,C#
+E8WzBjOU70Y,My Top 10 Reasons to Learn C# in 2023,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/E8WzBjOU70Y?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""My Top 10 Reasons to Learn C# in 2023""></iframe>",2340,112,9910,Gavin Lon,My Top 10 Reasons to Learn C# in 2023,2022-08-30,https://i.ytimg.com/vi/E8WzBjOU70Y/mqdefault.jpg,"In this video I discuss my top 10 reasons to learn C# in 2023.
+
+🕐 Video Time Indexes
+-----------------------------------------
+00:00 - Introduction
+04:29 - C# is a Diverse Programming Language
+08:52 - The Release of .NET 7 - November 2022
+11:55 - The Unity Game Engine
+13:14 - Stride - Game Engine
+17:40 - .NET MAUI
+18:22 - Blazor and Blazor Hybrid
+19:17 - C# is a Cloud Native Programming Language
+20:17 - Minimal APIs
+21:10 - C# is an In-Demand Programming Language
+21:51 - Conclusion
+
+Blazor Server, Syncfusion and Microsoft Identity - Full Free Course
+🔗 https://youtu.be/xO17P9LVkK0
+
+Top 10 Reasons to Learn C# Playlist
+🔗https://www.youtube.com/watch?v=Boviyys0TfE&list=PL4LFuHwItvKaKDIzSwy_rNyIzAOqoWbys
+
+
+**********Brilliant***********
+The first 200 people to sign up for an Annual Subscription 
+using the link below will get 20% off
+🔗 https://brilliant.sjv.io/ZdYgBz
+
+Support the Channel 👍
+------------------------------------
+Buy me a Coffee ☕️
+🔗 https://www.buymeacoffee.com/GavinLon
+
+PayPal
+🔗 https://www.paypal.com/paypalme/GavinLon
+
+🪙 BitCoin
+ 12JZYMiRq5YRDN5R5zuyYt7jMN8eTpkgns
+
+Free Courses
+----------------------
+Blazor (Webassembly) Shopping Cart Application full playlist
+🔗 https://youtu.be/3_AsedRrqww?list=PL4LFuHwItvKbdK-ogNsOx2X58hHGeQm8c
+
+Full playlist - Let's Build an ASP .NET Core MVC Web Application on .Net 5
+🔗 https://www.youtube.com/watch?v=D7R_ToqDKHg&list=PL4LFuHwItvKZ6Mz5W5wzD9uo3w6tNChhX
+
+Full playlist - Advanced C# Course
+🔗 https://www.youtube.com/watch?v=3cfVmcAkR2w&list=PL4LFuHwItvKaOi-bN1E2WUVyZbuRhVokL
+
+Full playlist - C# for Beginners Course
+🔗 https://www.youtube.com/watch?v=2pquQMSYk6c&list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di
+
+A video on .NET 6 created by this channel
+🔗 https://youtu.be/OkeM7XVwEdA
+
+A video on .NET 5 created by this channel
+🔗 https://youtu.be/UDbUAby8gSQ
+
+.NET Framework and .NET Core
+🔗 https://youtu.be/OkeM7XVwEdA
+
+.NET Playlist
+🔗 https://www.youtube.com/watch?v=OkeM7XVwEdA&list=PL4LFuHwItvKZAL8rpQiGRbWmgBj6TI7fM
+
+Unity
+🔗 https://unity.com
+
+Stride
+🔗 http://www.stride3d.net
+
+.NET 7 Preview 7
+🔗 https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-7
+
+.NET 6
+🔗 https://devblogs.microsoft.com/dotnet/announcing-net-6
+
+.NET MAUI
+🔗 https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui
+
+Microservices
+🔗 https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices
+
+Orleans
+🔗 https://dotnet.github.io/orleans/docs/index.html
+
+Minimal API
+🔗 https://docs.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis?view=aspnetcore-6.0
+
+Blazor
+🔗 https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor
+
+Blazor Hybrid
+🔗 https://docs.microsoft.com/en-us/aspnet/core/blazor/hybrid/?view=aspnetcore-6.0
+
+
+🎶All Music in this Video was Created by Gavin Lon",PT23M30S,C#
+c0LcwXKWiXw,C# Tutorial Deutsch (Komplettkurs) - C# Lernen in unter 4 Stunden,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/c0LcwXKWiXw?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# Tutorial Deutsch (Komplettkurs) - C# Lernen in unter 4 Stunden""></iframe>",3739,191,135000,Programmieren Starten,C# Tutorial Deutsch (Komplettkurs) - C# Lernen in unter 4 Stunden,2023-01-25,https://i.ytimg.com/vi/c0LcwXKWiXw/mqdefault.jpg,"Jetzt kostenlos Premium testen: https://programmieren-starten.de/premium-mitgliedschaft-lp1/?utm_source=youtube&utm_medium=share&utm_term=csharp-komplettkurs&utm_content=link-in-videobeschreibung&utm_campaign=premium-mitgliedschaft
+
+In diesem C# Tutorial auf Deutsch lernst du umfangreich die Programmiersprache C# kennen. Du wirst alle Grundlagen von C# lernen und sogar ein kleines Praxisprojekt bauen. Von den einfachen Konzepten wie Variablen und Datentypen bis hin zur Objektorientierung deckt dieser C# Komplettkurs wirklich alles ab was du als Programmier-Einsteiger lernen musst. Wolltest du also schon immer das Programmieren lernen, dann bist du hier genau richtig!
+
+Inhaltsverzeichnis:
+00:00 Einleitung
+01:45 Was ist C#?
+04:35 Wieso C#?
+07:20 Die Installation
+11:00 Das erste Projekt anlegen
+14:42 Der erste Code
+17:58 Variablen und Datentypen
+26:13 Wichtige Datentypen
+35:16 Rechnen im Code
+43:10 Methoden
+58:59 Eingaben vom Benutzer
+1:07:34 If-Abfragen
+1:21:29 Switch-Blöcke
+1:28:59 Arrays
+1:37:51 2D-Arrays
+1:42:59 Schleifen
+1:44:44 While-Schleife
+1:47:23 Do-While-Schleife
+1:49:06 For-Schleife
+1:57:36 Foreach-Schleife
+2:01:51 Praxisprojekt Number Guesser
+2:17:08 Einführung Objektorientierung
+2:28:07 Klassen und Objekte
+2:33:04 Eigenschaften
+2:43:45 Der Konstruktor
+2:49:21 Methoden in Klassen
+2:52:20 Vererbung
+2:59:51 WPF Einführung",PT3H21M40S,C#
+ChAu226eUNo,What's Next in C# 11 | OD103,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/ChAu226eUNo?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""What&#39;s Next in C# 11 | OD103""></iframe>",63344,1762,414000,Microsoft Developer,What's Next in C# 11 | OD103,2022-05-27,https://i.ytimg.com/vi/ChAu226eUNo/mqdefault.jpg,"C# 11 is well underway, and many new features are now available in preview. Mads will take you on a tour through static virtual members, list patterns, raw string literals and much more.
+
+Additional Resource:
+What's new in C# 11 -- https://docs.microsoft.com/dotnet/csharp/whats-new/csharp-11
+
+Recommended Next Step:
+Learn at Build -- https://aka.ms/LearnatBuild/?wt.mc_id=build22_ondemand_webpage_esc
+
+Jump to:
+00:00  Introduction
+00:11  Mads Torgersen, Principal Program Manager, Microsoft
+00:38  Demo: Some features that will be added to C# 11
+04:12  The new feature, static abstract members, in interfaces
+06:47  What is unique about the IParseable interface?
+09:14  Pattern Matching and List Patterns
+14:56  What is a constructor?
+16:28  Should object initializers be used in place of constructors?
+20:52  Improvements to Auto Properties
+21:34  Field Access in Auto Properties
+22:35  Raw string literal and how is it used
+22:40  Demo using SharpLab
+27:37  Where Can I Learn more about Preview Updates?
+
+Microsoft Build 2022",PT29M21S,C#
+CLKZ7ZgVido,The functional journey of C# - Mads Torgersen - NDC Copenhagen 2022,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/CLKZ7ZgVido?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""The functional journey of C# - Mads Torgersen - NDC Copenhagen 2022""></iframe>",23633,722,152000,NDC Conferences,The functional journey of C# - Mads Torgersen - NDC Copenhagen 2022,2022-08-17,https://i.ytimg.com/vi/CLKZ7ZgVido/mqdefault.jpg,"Two decades ago C# started out squarely in the camp of object-oriented programming languages.
+
+Ever since, though, there’s barely been a new version of the language that didn’t borrow concepts and features from functional programming; most recently with records. Let’s trace out this history, and also look at some functional concepts that we have yet to fit in nicely – but might in the future! No C# experience required.",PT1H1M28S,C#
+H18CfoinPZg,What's New in C# 11 | .NET Conf 2022,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/H18CfoinPZg?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""What&#39;s New in C# 11 | .NET Conf 2022""></iframe>",20271,400,212000,dotnet,What's New in C# 11 | .NET Conf 2022,2022-11-12,https://i.ytimg.com/vi/H18CfoinPZg/mqdefault.jpg,"Take it to 11 with Dustin and Mads as they share the latest goodies of C#. Once again, the next version of C# brings new convenience, elegance and expressiveness to a codebase near you!
+
+https://www.dotnetconf.net
+#DotNet #dotnetconf #dotnet7
+
+🙋‍♀️🙋‍♂️ Get your questions answered on the Microsoft Q&A for .NET: https://aka.ms/dotnet-qa
+
+🏫 Learn C#, F#, and .NET with free self-guided learning from Microsoft Learn: https://aka.ms/learndotnet",PT30M28S,C#
+dY_AWdCzsCY,Blazor Tutorial C# - Part 1 | Blazor Basics in 30 Mins [Blazor Development] | Razor Pages,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/dY_AWdCzsCY?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Blazor Tutorial C# - Part 1 | Blazor Basics in 30 Mins [Blazor Development] | Razor Pages""></iframe>",33182,722,5830,Coding Droplets,Blazor Tutorial C# - Part 1 | Blazor Basics in 30 Mins [Blazor Development] | Razor Pages,2021-11-15,https://i.ytimg.com/vi/dY_AWdCzsCY/mqdefault.jpg,"Blazor Tutorial C# - Part 1 is a tutorial video that covers Blazor Basics in 30 Mins duration which explains more about Razor pages. We'll be including more about Blazor Development (including the Advanced concepts) in our upcoming videos in this series.
+
+Learn Blazor with Coding Droplets. Below is the Blazor Tutorial Playlist Link:
+https://www.youtube.com/playlist?list=PLzewa6pjbr3IQEUfNiK2SROQC1NuKl6PV
+
+#Blazor is a free and open-source web framework that enables developers to create web apps using C# and HTML. We are using #DotNet5 and #DotNet6 as target framework in this video tutorial series. - Asp.Net Core
+
+Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C#, HTML, and CSS. Both client and server code is written in C#, allowing you to share code and libraries.
+
+Blazor can run your client-side C# code directly in the browser, using Blazor WebAssembly. Because it's real .NET running on #WebAssembly, you can re-use code and libraries from server-side parts of your application.
+
+Alternatively, Blazor can run your client logic on the server (Blazor Server). Client UI events are sent back to the server using SignalR - a real-time messaging framework. Once execution completes, the required UI changes are sent to the client and merged into the DOM.
+
+Blazor is not like Silverlight, Microsoft’s previous attempt at hosting in-browser applications. Silverlight required a browser plugin in order to run on the client, which prevented it from running on iOS devices.
+
+Blazor does not require any kind of plugin installed on the client in order to execute inside a browser. Blazor either runs server-side, in which case it executes on a server and the browser acts like a dumb terminal, or it runs in the browser itself by utilising WebAssembly.
+
+Because WebAssembly is a web standard, it is supported on all major browsers, which means also client-side Blazor apps will run inside a browser on Windows/Linux/Mac/Android and iOS.
+
+Topics Covered in this Video:
+0:00 - Intro
+2:57 - Demo Blazor Web Application
+6:07 - Blazor Project Setup
+7:44 - What is Razor?
+8:41 - Routing in Blazor
+12:53 - Declaring Variables and Methods in Blazor
+22:23 - Explicit Event Declaration in Blazor
+23:35 - How to use Conditions and For Loops in Blazor
+29:22 - MarkupString in Blazor
+30:52 - Summary of Blazor Basics Tutorial
+
+You can reach us at Social Media:
+Facebook: https://www.facebook.com/codingdroplets
+Twitter: https://twitter.com/codingdroplets
+Instagram: https://www.instagram.com/codingdroplets/
+Github: https://github.com/codingdroplets/",PT31M44S,C#
+87BO4ebfpGI,Фичи и производительность C#  11 .net 7 vs C# 10 .net 6,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/87BO4ebfpGI?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Фичи и производительность C#  11 .net 7 vs C# 10 .net 6""></iframe>",7542,365,4440,Архитектор ПО. Александр Желнин,Фичи и производительность C#  11 .net 7 vs C# 10 .net 6,2022-06-29,https://i.ytimg.com/vi/87BO4ebfpGI/mqdefault.jpg,В этом видео сравню новые фичи C# 11 c C# 10 а так же посмотрим на изменение производительности в C# 11 .net 7,PT29M2S,C#
+igzxpfJA-o4,10 ERRORES Comunes al PROGRAMAR en C# .Net,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/igzxpfJA-o4?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""10 ERRORES Comunes al PROGRAMAR en C# .Net""></iframe>",36735,2144,130000,hdeleon.net,10 ERRORES Comunes al PROGRAMAR en C# .Net,2021-10-06,https://i.ytimg.com/vi/igzxpfJA-o4/mqdefault.jpg,"En este video te hablare de 10 errores comunes que cometen los programadores de C# .Net.
+
+00:00 Introducción
+00:58 Declaración de variables con var
+04:35 Objetos por referencia
+07:10 Concatenación con string
+09:20 Diferencia entre const y readonly
+12:30 Diferencia de IEnumerable y List
+16:35 Formato en fechas
+20:28 Búsqueda en colecciones
+23:50 La inmutabilidad de string
+25:57 First en búsquedas sin resultado 
+28:37 Ámbito de variables en expresiones lambda
+
+Si quieres apoyarme y darme para una cerveza puedes hacerlo por aquí: http://paypal.me/HectorDeLeonGuevara
+
+Puedes apoyarme desde 0.5 USD al mes uniéndote como miembro al canal aquí: https://www.youtube.com/channel/UCDUdeFslCNoM29MAlZOfdWQ/join
+
+💻 CURSO de Patrones de Diseño en C# y ASP .Net: https://www.udemy.com/course/aprender-patrones-de-disenos-aplicados-en-asp-net/?referralCode=11528C0122AD145CE970
+
+La falta de respeto tanto a mí como a cualquier otra persona y el SPAM son razones de bloqueo en mi canal.
+
+""Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for ""fair use"" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use""
+
+Sigueme en twitter ⇒  https://twitter.com/powerhdeleon
+
+Sigueme en facebook ⇒ https://www.facebook.com/hdeleon666
+
+Mi Sitio web ⇒ http://hdeleon.net
+
+#programación #csharp #dotnet",PT30M48S,C#
+tpANSHdrwp8,"SpecFlow Selenium C# Tutorials-01 End to End in 20 Minutes |Install, Project Creation & First Script","<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/tpANSHdrwp8?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""SpecFlow Selenium C# Tutorials-01 End to End in 20 Minutes |Install, Project Creation &amp; First Script""></iframe>",990,21,11400,Testers Talk,"SpecFlow Selenium C# Tutorials-01 End to End in 20 Minutes |Install, Project Creation & First Script",2023-01-19,https://i.ytimg.com/vi/tpANSHdrwp8/mqdefault.jpg,"SpecFlow Selenium C# End to End Automation || BDD Framework from Scratch-01, SpecFlow Selenium C# Tutorials by Testers Talk and Bakkappa N Selenium C# Nunit Tutorials #specflow #testerstalk #seleniumc #bdd #.net #testautomation #framework 
+
+*****Specflow BDD complete Automation framework is available in github*****
+https://github.com/BakkappaN/SpecFlowBDDAutomationFramework#readme
+
+Chapters
+00:00 Welcome to Specflow Selenium C# Tutorial Series
+00:25 Introduction
+00:35 What is specflow?
+00:36 What is difference between BDD and TDD
+03:17 Specflow Framework Project Default Structure
+04:47 Specflow BDD Automation Framework Github repository
+05:25 How to Install Specflow in Visual Studio 2022
+ 07:30 How to Create Specflow Project in Visual Studio 2022
+09:30 UI Scenario Test Scenario
+10:06 How to Create Fetaure file in Visual Studio
+12:23 How to Create Scenario and Gherkin keywords Given When Then And
+13:05 How to Implement or Create Step Definitions class 
+15:20 How to Install Selenium WebDriver in Visual Studio
+17:14 Write a Test Script or Automate Test Case using Selenium
+18:02 Chrome Browser Opening
+18:28 Write a Xpath
+23:00 How to Execute Feature file or Scenario or Test Script
+24:45 How to Generate LivingDoc .html report
+30:40 How to add multiple Scenarios in Feature file
+
+**** Topics Covered ****
+* Installation – Specflow for Visual Studio
+* Specflow BDD Project Creation
+* UI Flow
+* Create feature file - Scenarios
+* Step Definition file
+* Selenium WebDriver 4.6.0
+* Navigate b/w feature file and step definition file
+* Execute feature file
+* Generate Report – Specflow LivingDoc Report
+* Specflow LivingDoc.html - Analyze the report
+
+*** Specflow LivingDoc html report generation ***
+Step1: dotnet tool install --global SpecFlow.Plus.LivingDoc.CLI
+Step2: cd projectfolder/bin/debug/net6.0
+Step3:  livingdoc test-assembly PROJECT_NAME.dll -t TestExecution.json
+
+*****Click on #Like #share #comment #subscribe to channel*****
+https://www.youtube.com/c/BakkappaN_SoftwareTesting_Videos?sub_confirmation=1
+
+*****FREE Full Courses*****
+Specflow Selenium C# Automation Framework: 
+https://www.youtube.com/watch?v=tpANSHdrwp8&list=PLUeDIlio4THGmh41cgOGHMPxAJyK44WrA&index=1
+
+EasyRepro Framework: 
+https://youtube.com/playlist?list=PLUeDIlio4THFl64e0ifCQsVeATBy152Xc
+
+Selenium C# .NET NUnit : https://youtu.be/utfaE9Nv1FY
+
+Selenium GRID : https://youtu.be/uVS08EMxThk
+
+Appium Mobile App Automation : https://youtu.be/Xnxf6uK7V5Q
+Appium Selenium GRID : https://youtu.be/OpzWMdL7kRA
+
+Data Driven Framework : https://youtu.be/lwkyl-Th9nU
+
+Cucumber BDD Framework Part1 : https://youtu.be/Xw4Gok2i2pA
+Cucumber BDD Framework Part2 : https://youtu.be/Ls9dCu7TTXU
+
+*****You can follow us on*****
+LinkedIN : https://www.linkedin.com/in/bakkappa-n/
+LinkedIN Group : https://www.linkedin.com/groups/10393547/
+Facebook : https://www.facebook.com/groups/247868358996762",PT33M44S,C#
+udEjGSXncEg,Deserialize JSON Data to Custom C# Class Objects using Newtonsoft.,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/udEjGSXncEg?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Deserialize JSON Data to Custom C# Class Objects using Newtonsoft.""></iframe>",12370,263,2280,Software Nuggets,Deserialize JSON Data to Custom C# Class Objects using Newtonsoft.,2021-09-16,https://i.ytimg.com/vi/udEjGSXncEg/mqdefault.jpg,"Deserialize your JSON Data into Custom  C# Class Objects  using Newtonsoft Deserialize Object.
+
+GitHub Link
+https://github.com/softwareNuggets/ModelSimple2ComplexJSON__into_CS_Objects
+ 
+
+How to Deserialize JSON that contains ARRAYS to C#.
+
+Deserialize JSON ARRAYS to C# using Newtonsoft.
+
+Deserialize JSON Nested ARRAYS to C# using Newtonsoft.
+
+Build C# classes to support JSON that contains ARRAYS.
+
+Let's (Design|Code|MODEL) your C# Class Objects to Deserialize your (simple to complex) JSON, so you can successfully use Newtonsoft.JSON.JsonConvert.DeserializeObject(complexJSON);
+
+4 Examples, from EASY to COMPREHENSIVE, teaching you the skills to design any C# object, or set of C# class objects, that will allow you to  Deserialize any JSON.  You will need this skill if you want to be able to use  Newtonsoft DeserializeObject
+
+If you are having any challenges to MODEL your C# objects to correctly Deserialize your JSON, you have to watch this video.  The fourth example is a must, if you truly want to have all the skills necessary to own this.
+
+Example 1 - introduces the process to model correctly.
+Example 2 - introduces a few more wrinkles.
+Example 3 - is tough, however, you'll have the skills to complete.
+Example 4 - you are now the boss.  congrats.
+
+Stop getting these type errors:
+a) The JSON value could not be converted to [boolean, array,integer, etc]
+
+TimeLine
+00:00 begin
+00:08 Setup project - use newtonsoft
+01:04 - Example One  - easy
+07:35 - Example Two  - semi-easy
+12:49 - Example Three - it's official, this is harder
+19:53 - Example 4 - you have to watch this to master this topic.
+
+#softwareNuggets, @SoftwareNuggets , #share_to_be_better",PT26M37S,C#
+GLHQiQIVwNQ,Create a Simple HTTP Server | Visual C#.NET,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/GLHQiQIVwNQ?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Create a Simple HTTP Server | Visual C#.NET""></iframe>",10976,133,624,SnatchDreams,Create a Simple HTTP Server | Visual C#.NET,2021-05-13,https://i.ytimg.com/vi/GLHQiQIVwNQ/mqdefault.jpg,"#SnatchDreams #Windows #VisualStudio #CSharp
+
+In this video we will see how do we create or code a simple HTTP Server using Visual C#.NET. It's a very basic one and its purpose is to demonstrate the working of HTTP Server and how to process basic HTTP Request and how provide a simple HTML Response to the browser.
+
+Will come up the next part next week 🥰 Thank You
+
+Project Source Code: 👩🏻‍💻 🧑🏻‍💻
+https://github.com/paulpjoby/Simple-HTTP-Server-Using-Visual-C-Sharp
+
+Buy me a coffee:
+https://imjo.in/bSQUvk
+https://www.paypal.me/paulpjoby
+
+How HTTP Server Works: 
+https://youtu.be/aLPA6oZlgKQ
+
+Create Simple File Manager using C#.NET
+https://www.youtube.com/watch?v=oRtME1oJD7M
+
+Create Simple File Manager using VB.NET
+https://www.youtube.com/watch?v=4W8r6PFkLaQ
+
+Hope you guys enjoyed the video 
+Thanks for Watching 
+SnatchDreams
+It's Insane Here  🥳😍",PT23M17S,C#
+2sqyd-qtHYg,C# IEnumerable & IEnumerator,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/2sqyd-qtHYg?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# IEnumerable &amp; IEnumerator""></iframe>",20303,1032,60600,Tarodev,C# IEnumerable & IEnumerator,2021-11-28,https://i.ytimg.com/vi/2sqyd-qtHYg/mqdefault.jpg,"IEnumerable and IEnumerator play an integral part in your day-to-day development, whether you know about them or not! They can also yield strange results if you don't know how they work. 
+
+In this video I'll show you what they do, how they work and how you can create your own enumerable classes.
+
+This video is sponsored by Jet brains. Check out their amazing software suite here: https://jb.gg/vp1aem
+
+
+
+❤️ Become a Tarobro on Patreon: https://www.patreon.com/tarodev
+
+=========
+
+🔔 SUBSCRIBE: https://bit.ly/3eqG1Z6
+🗨️ DISCORD: https://discord.gg/tarodev
+✅ MORE TUTORIALS: https://www.youtube.com/tarodev
+
+
+00:00 - Intro
+00:20 - First example (Heroes of Olympus)
+4:00 - Second example (Query behaviour / Random)
+6:16 - ToList() tradeoffs - pros & cons
+8:03 - ToList() example
+9:24 - Example benchmark
+11:33 - IDE love
+13:30 - One at a time
+16:45 - Linq benefits on IEnumerables
+18:00 - Custom IEnumerator
+21:41 - Generic IEnumerator for Linq queries
+23:56 - Summary",PT25M15S,C#
+wEv8QiCyeSE,#csharp #tamil #csharptutorial  C# tutorial in Tamil,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/wEv8QiCyeSE?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""#csharp #tamil #csharptutorial  C# tutorial in Tamil""></iframe>",9680,279,11000,Anto sujesh,#csharp #tamil #csharptutorial  C# tutorial in Tamil,2022-07-24,https://i.ytimg.com/vi/wEv8QiCyeSE/mqdefault.jpg,"Author : Anto sujesh
+
+#csharptutorialtamil #tamil #tamiltutorial #tamilprogamer #programming #programmingtamil #sql #sqltutorial 
+#csharp #programming #coding #javascript #java #html #programmer #python #developer #css #code #php #unity #coder #softwaredeveloper #l #webdeveloper #d #yaz #dotnet #software #c #fullstackdeveloper #frontenddeveloper #codinglife #sql #backenddeveloper #developerlife #reactjs #cplusplusprogramming 
+
+
+
+c#,c# programming,learn c#,c# tutorial,c sharp tutorial,c# fundamentals for absolute beginners,c# course,c# for beginners,c# tutorial for beginners,c# (programming language),.net,c# programming tutorial for beginners,learn c# for beginners,learn c# for unity,unity,learn c# in one video,learn c# programming,.net framework,c# training,csharp,csharp tutorial,c sharp,micrososft,learn C# in tamil,learn csharp in tamil,csharp tamil,tamil,tamil news live",PT3H57M17S,C#
+E8WzBjOU70Y,My Top 10 Reasons to Learn C# in 2023,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/E8WzBjOU70Y?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""My Top 10 Reasons to Learn C# in 2023""></iframe>",2340,112,9910,Gavin Lon,My Top 10 Reasons to Learn C# in 2023,2022-08-30,https://i.ytimg.com/vi/E8WzBjOU70Y/mqdefault.jpg,"In this video I discuss my top 10 reasons to learn C# in 2023.
+
+🕐 Video Time Indexes
+-----------------------------------------
+00:00 - Introduction
+04:29 - C# is a Diverse Programming Language
+08:52 - The Release of .NET 7 - November 2022
+11:55 - The Unity Game Engine
+13:14 - Stride - Game Engine
+17:40 - .NET MAUI
+18:22 - Blazor and Blazor Hybrid
+19:17 - C# is a Cloud Native Programming Language
+20:17 - Minimal APIs
+21:10 - C# is an In-Demand Programming Language
+21:51 - Conclusion
+
+Blazor Server, Syncfusion and Microsoft Identity - Full Free Course
+🔗 https://youtu.be/xO17P9LVkK0
+
+Top 10 Reasons to Learn C# Playlist
+🔗https://www.youtube.com/watch?v=Boviyys0TfE&list=PL4LFuHwItvKaKDIzSwy_rNyIzAOqoWbys
+
+
+**********Brilliant***********
+The first 200 people to sign up for an Annual Subscription 
+using the link below will get 20% off
+🔗 https://brilliant.sjv.io/ZdYgBz
+
+Support the Channel 👍
+------------------------------------
+Buy me a Coffee ☕️
+🔗 https://www.buymeacoffee.com/GavinLon
+
+PayPal
+🔗 https://www.paypal.com/paypalme/GavinLon
+
+🪙 BitCoin
+ 12JZYMiRq5YRDN5R5zuyYt7jMN8eTpkgns
+
+Free Courses
+----------------------
+Blazor (Webassembly) Shopping Cart Application full playlist
+🔗 https://youtu.be/3_AsedRrqww?list=PL4LFuHwItvKbdK-ogNsOx2X58hHGeQm8c
+
+Full playlist - Let's Build an ASP .NET Core MVC Web Application on .Net 5
+🔗 https://www.youtube.com/watch?v=D7R_ToqDKHg&list=PL4LFuHwItvKZ6Mz5W5wzD9uo3w6tNChhX
+
+Full playlist - Advanced C# Course
+🔗 https://www.youtube.com/watch?v=3cfVmcAkR2w&list=PL4LFuHwItvKaOi-bN1E2WUVyZbuRhVokL
+
+Full playlist - C# for Beginners Course
+🔗 https://www.youtube.com/watch?v=2pquQMSYk6c&list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di
+
+A video on .NET 6 created by this channel
+🔗 https://youtu.be/OkeM7XVwEdA
+
+A video on .NET 5 created by this channel
+🔗 https://youtu.be/UDbUAby8gSQ
+
+.NET Framework and .NET Core
+🔗 https://youtu.be/OkeM7XVwEdA
+
+.NET Playlist
+🔗 https://www.youtube.com/watch?v=OkeM7XVwEdA&list=PL4LFuHwItvKZAL8rpQiGRbWmgBj6TI7fM
+
+Unity
+🔗 https://unity.com
+
+Stride
+🔗 http://www.stride3d.net
+
+.NET 7 Preview 7
+🔗 https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-preview-7
+
+.NET 6
+🔗 https://devblogs.microsoft.com/dotnet/announcing-net-6
+
+.NET MAUI
+🔗 https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui
+
+Microservices
+🔗 https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices
+
+Orleans
+🔗 https://dotnet.github.io/orleans/docs/index.html
+
+Minimal API
+🔗 https://docs.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis?view=aspnetcore-6.0
+
+Blazor
+🔗 https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor
+
+Blazor Hybrid
+🔗 https://docs.microsoft.com/en-us/aspnet/core/blazor/hybrid/?view=aspnetcore-6.0
+
+
+🎶All Music in this Video was Created by Gavin Lon",PT23M30S,C#
+pdDxXQhSGg0,Create C# Class Project with Class Library in Visual Studio 2022,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/pdDxXQhSGg0?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Create C# Class Project with Class Library in Visual Studio 2022""></iframe>",1542,10,297,John Williams,Create C# Class Project with Class Library in Visual Studio 2022,2022-09-22,https://i.ytimg.com/vi/pdDxXQhSGg0/mqdefault.jpg,This is a basic demonstration to assist those who might not be clear on how to create C# Class projects in Visual Studio 2022. This is not the only way to  create C# Class projects but one approach that may be used.,PT23M22S,C#
+6x0bUWt26z0,C# Create Modern Style Calculator in Windows Form,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/6x0bUWt26z0?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# Create Modern Style Calculator in Windows Form""></iframe>",7054,160,1040,Artan Academy,C# Create Modern Style Calculator in Windows Form,2022-09-06,https://i.ytimg.com/vi/6x0bUWt26z0/mqdefault.jpg,"((Welcome to the Artan family))
+Making a unique calculator (complete project)
+                  
+In this tutorial, we are going to teach you how to make a calculator with complete and very beautiful and special features. Let's use this professional and complete calculator with custom buttons and control ellipse that we have already taught how to make in the channel. The idea of this calculator is in Windows 11.
+
+* If you have any questions, ask in the comments section and we will be happy to answer.
+
+👇 You will like things 👇
+https://youtu.be/rthUUA7HDig
+https://youtu.be/Q6EdrOyRgCU",PT56M8S,C#
+ZXdFisA_hOY,.NET 5 REST API Tutorial - Build From Scratch With C#,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/ZXdFisA_hOY?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title="".NET 5 REST API Tutorial - Build From Scratch With C#""></iframe>",567068,10952,7150000,freeCodeCamp.org,.NET 5 REST API Tutorial - Build From Scratch With C#,2021-06-23,https://i.ytimg.com/vi/ZXdFisA_hOY/mqdefault.jpg,"Learn how to create a REST API end-to-end from scratch using the latest .NET 5 innovations and Visual Studio Code. The API will be written in C#.
+
+💻 Get the code: https://youtube.dotnetmicroservices.com/net5restapi-10
+
+✏️ Course developed by Julio Casal. Check out his channel: https://www.youtube.com/c/jcasalt
+🔗 Julio's website: https://dotnetmicroservices.com
+
+⭐️ Course Contents ⭐️
+Getting Started
+0:00:00 Introduction
+0:03:02 Creating the project
+0:04:01 Exploring the generated project files
+0:10:03 Trusting the self-signed certificate
+0:11:36 Exploring the default Swagger UI page
+0:12:30 Configuring Visual Studio Code settings
+
+Entity, Repository, Controller GET
+0:14:33 Introduction
+0:15:45 Adding an entity
+0:20:39 Ading an in-memory repository
+0:26:40 Creating the controller
+0:30:42 Implemeting GET all items
+0:33:37 Implemeting GET single item
+0:37:47 Returning a 404 NotFound status code
+
+Dependency Injection, DTOSs
+0:39:57 Introduction
+0:41:23 What is dependency injection?
+0:46:14 Extracting the repository interface
+0:47:44 Injecting the repository into the controller
+0:48:53 Registering the repository as a singleton
+0:52:32 Adding a Data Transfer Object DTO
+0:55:46 Creating the AsDto extension method
+
+POST, PUT, DELETE
+0:58:59 Introduction
+0:59:45 Implementing POST
+1:07:39 Adding validations via data annotations
+1:10:00 Implemeting PUT
+1:17:33 Implementing DELETE
+
+Persisting Entities with MongoDB
+1:20:46 Introduction
+1:24:44 Using Postman
+1:27:53 Creating a MongoDB repository
+1:29:42 Using the MongoDB.Driver NuGet package
+1:33:28 Implementing MongoDB Create
+1:33:57 Running the MongoDB Docker container
+1:38:47 Configuring MongoDB connection settings
+1:42:38 Registering the MongoClient singleton
+1:48:02 Testing the MongoDB integration
+1:50:04 Exploring the created database in VS Code
+1:52:45 Implemeting MongoDB Get, Update and Delete
+
+Tasks, Async and Await
+2:02:27 Introduction
+2:06:46 Using the Async suffix
+2:09:04 Using tasks in the repository
+2:11:50 Using async and await
+2:14:28 Returning completed tasks
+2:18:16 Using tasks in the controller
+2:21:23 Testing async methods in Postman
+
+Secrets and Health Checks
+2:27:02 Introduction
+2:30:06 Enabling authentication in MongoDB
+2:33:36 Using the .NET Secret Manager
+2:36:40 Using the MongoDB credentials in the service
+2:40:00 Introduction to Health Checks
+2:42:28 Adding an endpoint for health checks
+2:44:46 Adding a MongoDB health check
+2:48:41 Adding checks for readiness and liveness
+2:53:51 Customizing the health check response
+2:58:59 Exploring other health check NuGet packages
+
+Docker
+3:00:44 Introduction
+3:08:28 What is Docker?
+3:17:54 Removing https redirection
+3:20:39 Generating a Dockerfile in VS Code
+3:30:40 Building the Docker image
+3:33:00 Adding a Docker network
+3:34:07 Running the containers in the Docker network
+3:40:36 Running the REST API in Docker
+3:42:02 Pushing the container image to Docker Hub
+3:46:02 Exploring the image in Docker Hub
+3:46:32 Pulling the image back to the local box
+
+Kubernetes
+3:49:20 Introduction
+3:54:05 What is Kubernetes?
+4:04:06 Enabling a Kubernetes cluster in Docker Desktop
+4:06:12 Installing the Kubernetes extension for VS Code
+4:06:58 Declaring the REST API Kuberentes deployment
+4:14:35 Creating a secret in Kubernetes
+4:17:28 Declaring health probes
+4:19:14 Declaring the REST API Kubernetes service
+4:22:56 Creating the REST API resources in Kubernetes
+4:26:15 Declaring the MongoDB Kubernetes StatefulSet
+4:36:09 Declaring the MongoDB Kubernetes service
+4:38:27 Creating the MongoDB resources in Kubernetes
+4:40:42 Testing the REST API hosted in Kubernetes
+4:42:08 Exploring the Kubernetes self-healing capability
+4:46:04 Scaling Kubernetes pods
+4:47:38 Adding logs via ILogger
+4:52:04 Getting a new image version into Kubernetes
+4:53:23 Load balancing requests across pods
+
+Unit Testing and TDD
+4:56:23 Introduction
+4:57:04 What is unit testing?
+5:01:19 What is test driven development?
+5:04:25 Restructuring files and directories
+5:08:25 Creating the xUnit test project
+5:09:15 Building multiple projects in VS Code
+5:13:10 Adding NuGet packages for unit testing
+5:14:35 Testing GetItemAsync unexisting item
+5:18:35 Using the AAA pattern
+5:19:31 Stubbing dependencies via Moq
+5:26:52 Running tests in VS Code
+5:28:05 Using the .NET Core Test Explorer extension
+5:30:55 Testing GetItemAsync existing item
+5:38:01 Using FluentAssertions
+5:41:46 Testing GetItemsAsync
+5:45:41 Testing CreateItemAsync
+5:53:13 Testing UpdateItemAsync
+5:57:51 Testing DeleteItemAsync
+5:59:40 Refactoring and catching regressions
+6:10:50 Using TDD to test a yet to be created method
+6:19:07 Going back to green by fixing the failing test
+6:21:19 Testing the new controller method in Postman",PT6H24M9S,C#
+GRLidsP3O2M,C# Dependency Injection Tutorial | C# Dependency Injection Example | C# Tutorial | Simplilearn,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/GRLidsP3O2M?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# Dependency Injection Tutorial | C# Dependency Injection Example | C# Tutorial | Simplilearn""></iframe>",14171,130,2780000,Simplilearn,C# Dependency Injection Tutorial | C# Dependency Injection Example | C# Tutorial | Simplilearn,2022-01-10,https://i.ytimg.com/vi/GRLidsP3O2M/mqdefault.jpg,"This video on C# Dependency Injection tutorial will acquaint you with a clear understanding of the fundamentals of C# Dependency Injection. In this C# Tutorial, you will get better understanding on what is Dependency Injection. we will start with an introduction to C# Dependency Injection,Then we will discuss the ways to implement Dependency Injection in C#. then we will discuss C# Dependency Injection Example to explain Constructor dependency injection. after that we will discuss C# Dependency Injection Example to explain property dependency injection. then we will discuss C# Dependency Injection Example to explain method dependency injection. Finally we will conclude the tutorial with Advantages of Dependency injection. 
+
+The topics covered in this video are:
+00:00 Introduction to C# Dependency Injection Tutorial
+01:02 What is C# Dependency Injection
+01:33 ways to immplement C# Dependency Injection Tutorial
+01:51 Constructor dependency injection in C# Dependency Injection tutorial
+09:23 Property dependency injection in C# Dependency Injection tutorial
+16:52 Method dependency injection in C# Dependency Injection tutorial
+23:02 Conclusion to C# Dependency Injection tutorial
+
+🔥 Explore our FREE Courses with Completion Certificates: https://www.simplilearn.com/skillup-free-online-courses?utm_campaign=C#DependencyInjectionTutorial&utm_medium=Description&utm_source=youtube
+
+✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH
+
+To access the slides, click here: https://www.slideshare.net/Simplilearn/c-dependency-injection-tutorial-c-dependency-injection-example-c-tutorial-simplilearn
+
+⏩ Check out the C++ Programming training videos: https://www.youtube.com/playlist?list=PLEiEAq2VkUUKqiV3x0XzAuMtlvyYxHuin
+
+#CSharpDependencyInjection #CSharpDependencyInjectionTutorial #CSharpDependencyInjectionForBeginners #C#TutorialForBeginners #C#ProgrammingLanguage #WhatIsCSharp #WhatIsCSharpProgrammingLanguage #CSharpTutorial #CSharpTutorialForBeginners #LearnProgramming #Simplilearn 
+
+What is C# programming language?
+C# (C Sharp) is a multi-paradigm, general-purpose programming language. C# programming language encompasses the programming disciplines of static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented.
+
+What is C# application?
+C# is a popular programming language for creating desktop applications, web applications, and web services. It is widely used in the development of Microsoft applications on a large scale. C# is also used in Unity game development.
+Net framework is a ground-breaking platform that allows you to create the following types of applications:
+Applications for Windows
+Web-based applications
+Web-based services
+Net framework applications are cross-platform in nature. 
+
+✅What is C# Programming? 
+C# is a modern, object-oriented, general-purpose programming language that is pronounced ""C sharp."" It was created inside the.Net project by Microsoft, led by Anders Hejlsberg and his team, and was authorised by the European Computer Manufacturers Association (ECMA) and the International Standards Organization (ISO). C# is one of the languages supported by the Common Language Infrastructure, and the current version is 7.2. C# is syntactically similar to Java and is simple for users who are familiar with C, C++, or Java.
+
+✅C# Career Prospects:
+With just C# programming expertise, you will have excellent job opportunities, salaries, and career prospects. However, for a career based on programming languages such as Java and Python (which are in more demand than C#) or for careers based on front-end, back-end, and full-stack development, you will go a lot further with C# expertise. Furthermore, in development domains such as software testing, you are expected to know C#. C# gives us more Edge over other languages because of its .Net Framework integration.
+
+👉To know about C++ programming, visit: https://www.simplilearn.com/c-plus-plus-programming-for-beginners-article?utm_campaign=C#DependencyInjectionTutorial&utm_medium=Description&utm_source=youtube
+
+🔥 Explore our FREE Courses with Completion Certificates: https://www.simplilearn.com/skillup-free-online-courses?utm_campaign=C#DependencyInjectionTutorial&utm_medium=Description&utm_source=youtube
+
+For more updates on courses and tips follow us on:
+- Facebook: https://www.facebook.com/Simplilearn 
+- Twitter: https://twitter.com/simplilearn 
+- LinkedIn: https://www.linkedin.com/company/simplilearn/
+- Website: https://www.simplilearn.com 
+- Instagram: https://www.instagram.com/simplilearn_elearning
+- Telegram Mobile: https://t.me/simplilearnupdates
+- Telegram Desktop: https://web.telegram.org/#/im?p=@simplilearnupdates
+
+Get the Simplilearn app: https://simpli.app.link/OlbFAhqMqgb
+
+🔥🔥 Interested in Attending Live Classes? Call Us: IN - 18002127688 / US - +18445327688",PT24M1S,C#
+WYGN2V1yHDo,Aprenda Programação C# para Jogos na Unity,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/WYGN2V1yHDo?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Aprenda Programação C# para Jogos na Unity""></iframe>",1793,178,1420,Desenvolvedor Unity,Aprenda Programação C# para Jogos na Unity,2022-11-05,https://i.ytimg.com/vi/WYGN2V1yHDo/mqdefault.jpg,"Aprenda neste tutorial o básico sobre programação C# para criar jogos na Unity Engine. Vamos aprender sobre variáveis, métodos, scripts, condições if, comentários, funções nativas da Unity e muito mais.
+
+A Unity é uma das maiores engines de desenvolvimento de jogos do mundo. E dentro dela utilizamos o C# como linguagem de programação e é através dele que criamos todas as interações, lógicas e mecânicas que queremos em nossos jogos. Portanto é fundamental a gente aprender como usar a linguagem C#.
+
+#unity #criarjogos #desenvolvedorunity",PT20M39S,C#
+mysGzV3Xuyw,C# How to Add and Remove Controls at Runtime inside flowlayoutpanel in Windows Form C# .NET 6,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/mysGzV3Xuyw?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# How to Add and Remove Controls at Runtime inside flowlayoutpanel in Windows Form C# .NET 6""></iframe>",597,15,1040,Artan Academy,C# How to Add and Remove Controls at Runtime inside flowlayoutpanel in Windows Form C# .NET 6,2022-11-05,https://i.ytimg.com/vi/mysGzV3Xuyw/mqdefault.jpg,"((Welcome to Artan family))
+
+In this tutorial, we want to learn how to add or remove a UserControl at Runtime. We first create a UserControl and then add or remove it with a button. We create all its items using custom panel, custom circle image box, custom text box and custom button that we taught earlier. You can easily use this custom slider card in other projects. This C# tutorial helps novice programmers learn the basics of the C# programming language. These tutorials are the best way to learn the basics of C#.
+
+* If you have any question, feel free to ask in the comments section and we will be more than happy to answer.
+
+👇 Artan Academy Channel 👇https://www.youtube.com/channel/UCutG7REaNX-CWrPYIHnNwKg
+
+👇 C# Shopping Dashboard Design in Windows Form C# .NET 6 👇 https://youtu.be/R0uvVq_R0WA
+
+👇 C# Beautiful Profile Card Design in Windows Form 👇 https://youtu.be/TxFAC2cBSJk
+
+https://youtu.be/F5j3KGLyB_w",PT42M38S,C#
+QYzC_fxuPe4,Java 🆚 C# (.NET),"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/QYzC_fxuPe4?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Java 🆚 C# (.NET)""></iframe>",5032,194,86300,MitoCode,Java 🆚 C# (.NET),2022-07-30,https://i.ytimg.com/vi/QYzC_fxuPe4/mqdefault.jpg,"INICIO 11:45
+
+Conversemos sobre las diferencias, consejos, salarios, etc. sobre ambos lenguajes.
+
+¡EN VIVO!🔴
+#mitocode​ #programacion #java #net
+
+Síguenos también en
+
+Cursos Premium: https://www.mitocode.com/cursos
+Comunidad Discord: https://discord.gg/pxwkt38B6w
+Twitch: https://www.twitch.tv/mitocodeoficial
+Facebook: https://www.facebook.com/mitocode
+Youtube: https://www.youtube.com/mitocode
+Instagram: https://www.instagram.com/mitocode
+Twitter: https://www.twitter.com/mitocode
+TikTok: https://www.tiktok.com/@mitocode",PT2H11M59S,C#
+SkfCGNT5r5Y,Learn Complete OOPS Concepts in C#  by Sandeep Soni in JUST 8 Hours,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/SkfCGNT5r5Y?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Learn Complete OOPS Concepts in C#  by Sandeep Soni in JUST 8 Hours""></iframe>",16491,302,114000,BestDotNetTraining,Learn Complete OOPS Concepts in C#  by Sandeep Soni in JUST 8 Hours,2021-02-06,https://i.ytimg.com/vi/SkfCGNT5r5Y/mqdefault.jpg,"In this C# and OOPS Tutorial, you will learn the 4pillars of object-oriented programming: Encapsulation, Abstraction, Inheritance, and Polymorphism. 
+
+👨🏻‍🏫 This complete C# tutorial is compiled by Sandeep Soni, a Microsoft Certified Trainer, a Software & Corporate Trainer for 24 years!  
+
+💻 He conducts frequent webinars and workshops for free. To get info about these, you can join one of our WhatsApp groups - 📲 https://chat.whatsapp.com/C4CY0Qoy7of0Epk1zzo6tU
+
+For more great tutorials from the creator of this course, check out https://www.bestdotnettraining.com/​   
+
+📕 You can view the original C# course: https://www.bestdotnettraining.com/csharp-online-training
+
+📖 Agenda of this Video -  
+
+In this video, the speaker will educate the viewers about the different terms which are related to the Object Orientation Principle. The topics of discussion will range from classes and objects to Inheritance, Encapsulation.
+
+====================================================================
+📢For regular updates on free webinars visit
+https://www.bestdotnettraining.com/courses-and-webinars
+
+To ensure timely delivery of updates, you can now join our group on the following channels:
+
+Join the Whatsapp group to get updates on the latest software technologies, webinars, and more
+WhatsApp 📢- https://chat.whatsapp.com/C4CY0Qoy7of0Epk1zzo6tU
+
+Signal:📢
+https://signal.group/#CjQKIPIBGPj9WlS41OHB6dLKdqwshHZ_hevLJQMDbmIoKNkvEhBBiq10NoKLPKx3r0BOsUg6
+
+Telegram:📢
+https://t.me/joinchat/VFoQPBNh3zxbQqfzuEq9Rg
+
+Please subscribe to our channel for more related videos: https://www.youtube.com/user/Deccansoft123
+
+For any course-related queries, reach us @ +91 8008327000 Kashmira Shah
+Please leave your comment about the videos.
+
+For more updates on courses and tips follow us on: 
+- Facebook: https://www.facebook.com/DeccansoftHome
+- Twitter: https://twitter.com/deccansoft
+- LinkedIn: https://in.linkedin.com/company/deccansoft-software-services                                
+- Website: https://www.deccansoft.com/ or https://www.bestdotnettraining.com/
+
+#Sandeepsoni #bestdotnettraining #deccansoft",PT7H53M6S,C#
+t0XmCV7mfv8,Fleet ready for c# dev's?,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/t0XmCV7mfv8?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Fleet ready for c# dev&#39;s?""></iframe>",3169,104,54400,Raw Coding,Fleet ready for c# dev's?,2022-12-27,https://i.ytimg.com/vi/t0XmCV7mfv8/mqdefault.jpg,"Today we'll see how ready Fleet by JetBrains is for c# development.
+
+Try Fleet: https://www.jetbrains.com/fleet/
+
+Source Code 📃 https://www.patreon.com/raw_coding
+Shop 🛒 https://shop.raw-coding.dev 
+Twitch 🎥 https://www.twitch.tv/raw_coding
+Discord 💬 https://discord.gg/Qp6hdq3 
+Github 🏛️ https://github.com/T0shik
+Twitter 📣 https://twitter.com/anton_t0shik
+Donate 💸 https://streamelements.com/raw_coding/tip",PT26M50S,C#
+rChMv7IVbmk,How To Create Auto Update -  C# | Windows Form,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/rChMv7IVbmk?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""How To Create Auto Update -  C# | Windows Form""></iframe>",1618,38,1310,Coding Ideas,How To Create Auto Update -  C# | Windows Form,2022-11-15,https://i.ytimg.com/vi/rChMv7IVbmk/mqdefault.jpg,"Thanks for watching. If you liked this video, make sure to subscribe for more
+
+PLEASE READ
+• The file is protected by a password.
+-The Password is a 4 digits number.
+• Please check the password in this video, It will appear any time on your upper right screen.
+
+Example: Pass#1: 12**
+                  Pass#2 : **34
+So the password is 1234 [ Not the actual password ]
+
+Source code link
+https://daniblogs.com/BF/263814cz
+
+Follow me on my social media
+Instagram : 
+https://www.instagram.com/jeov_dev/
+Tiktok :  
+https://www.tiktok.com/@coding_ideas?...
+Facebook
+https://www.facebook.com/jeovdev/
+
+If you have questions, message me on my discord
+https://discord.gg/RVNkH6Ay",PT23M34S,C#
+87BO4ebfpGI,Фичи и производительность C#  11 .net 7 vs C# 10 .net 6,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/87BO4ebfpGI?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Фичи и производительность C#  11 .net 7 vs C# 10 .net 6""></iframe>",7542,365,4440,Архитектор ПО. Александр Желнин,Фичи и производительность C#  11 .net 7 vs C# 10 .net 6,2022-06-29,https://i.ytimg.com/vi/87BO4ebfpGI/mqdefault.jpg,В этом видео сравню новые фичи C# 11 c C# 10 а так же посмотрим на изменение производительности в C# 11 .net 7,PT29M2S,C#
+ub1iwTL7iTs,How to generate Auto Unique Number | Auto ID Number  in C# using SQL server with source code,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/ub1iwTL7iTs?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""How to generate Auto Unique Number | Auto ID Number  in C# using SQL server with source code""></iframe>",4540,53,407,DiegoDamunaTv,How to generate Auto Unique Number | Auto ID Number  in C# using SQL server with source code,2022-06-01,https://i.ytimg.com/vi/ub1iwTL7iTs/mqdefault.jpg,In this Video I am explaining how you can create un system that auto increment the ID NUMBER using C# with SQL Server.,PT32M35S,C#
+gvyTB4aMI4o,Functional Programming with C# - Simon Painter - NDC Oslo 2020,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/gvyTB4aMI4o?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Functional Programming with C# - Simon Painter - NDC Oslo 2020""></iframe>",10739,265,152000,NDC Conferences,Functional Programming with C# - Simon Painter - NDC Oslo 2020,2021-08-08,https://i.ytimg.com/vi/gvyTB4aMI4o/mqdefault.jpg,"Functional Programming is becoming increasingly popular and relevant with each year that goes by. With so much discussion around languages such as F#, Haskell and Erlang, it can seem as though getting started with Functional programming would mean first learning a whole new syntax...but what if it didn't?
+
+Most .NET developers are familiar with the use of Linq, and basic constructs such as IEnumerable, Func delegates, arrow functions and ternary expressions, but did you know that you can use all of this to implement some of the most powerful patterns and techniques from the world of functional programming?
+
+This talk will demonstrate how, using only familiar features available in out-of-the-box C#, to write Functional code that is:
+
+* More robust
+* Easier to read
+* Easier to maintain
+
+As well as these benefits, Functional code is a great enabler for the use of concurrency with Async functions and Serverless applications with technologies such as Azure Functions.
+
+This talk might be of interest to anyone looking into moving to a new platform, or in improving the scalability of an existing application, or even just interested in seeing what Functional Programming is all about, but all within the comfort of a familiar language.
+
+We might even attempt the impossible, and explain what a Monad is!",PT1H3M21S,C#
+9Nn0OkLQ9lM,Building GraphQL APIs in C# - Brandon Minnick - NDC Oslo 2021,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/9Nn0OkLQ9lM?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Building GraphQL APIs in C# - Brandon Minnick - NDC Oslo 2021""></iframe>",8292,170,152000,NDC Conferences,Building GraphQL APIs in C# - Brandon Minnick - NDC Oslo 2021,2022-03-02,https://i.ytimg.com/vi/9Nn0OkLQ9lM/mqdefault.jpg,"GraphQL is an exciting new API architecture that enables huge performance benefits over REST APIs.
+
+But what is GraphQL? Why is it better than REST? And how do you create a GraphQL API in C#.
+
+Join me as we learn all of this and more!
+
+- Introduction to GraphQL
+- Difference between REST & GraphQL
+- C# libraries for building GraphQL APIs
+- How to create a GraphQL API in C#
+
+
+Check out more of our featured speakers and talks at
+https://ndcconferences.com/
+https://ndcoslo.com/",PT58M53S,C#
+dS-XRUWu9Rk,C# Desde Cero: Instalación de Visual Studio 2022 y Hola Mundo C#,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/dS-XRUWu9Rk?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# Desde Cero: Instalación de Visual Studio 2022 y Hola Mundo C#""></iframe>",39525,1016,44000,The Coder Cave esp,C# Desde Cero: Instalación de Visual Studio 2022 y Hola Mundo C#,2022-03-01,https://i.ytimg.com/vi/dS-XRUWu9Rk/mqdefault.jpg,"💥¿Quieres aprender C#? 
+📚Curso Completo de C# desde Cero 👉 https://bit.ly/3jLyIv4
+Descuento del 60% 👉 https://thecodercave.com/descuento/
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+🤔 SOBRE ESTE VIDEO 👇
+
+En este tutorial aprenderás como descargar e instalar Visual Studio 2022, y cómo escribir un sencillo Hola Mundo en C#.
+Además, te voy a mostrar los elementos básicos de Visual Studio para que puedas comenzar a utilizar el IDE hoy mismo, y te voy a enseñar cómo depurar/debug tu aplicación. 
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+💥ME ENCUENTRAS TAMBIÉN AQUÍ 👇
+
+Sitio Web  ►https://thecodercave.com/
+Twitter      ► https://twitter.com/CaveCoder
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+💻 CURSOS PREMIUM 👇
+
+🚀Curso Completo de C# desde Cero ► https://bit.ly/3jLyIv4
+🚀Curso de C# Práctico en 15 Proyectos ► https://bit.ly/3uUqCaR
+
+🔥 Curso Completo de Blazor desde Cero ► https://bit.ly/38DtZXz
+🔥 Blazor Ultimate: Domina Blazor en 4 Proyectos ► https://bit.ly/3xbAtbA
+
+👉Curso Práctico de SQL para principiantes ►https://bit.ly/2R6KVOX
+
+📚 Curso de GIT y Github para Principiantes ► https://bit.ly/30Fbhz4
+
+Descuento del 60% en todos mis cursos 👉 https://thecodercave.com/descuento/
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+📚 RECURSOS RECOMENDADOS 👇
+
+¿QUIERES APRENDER INGLÉS?👇
+Italki ► $10 de regalo con tu primera compra
+👉 http://go.italki.com/TheCoderCaveesp
+
+Busuu ► App gratis con descuento para su sección Premium
+👉https://www.dpbolvw.net/click-100312834-14507491
+
+
+Dominios  ► Namecheap: 👇
+👉 https://www.kqzyfj.com/8h117p-85-7NPOORPQWQVNPPSQUTST
+
+Hosting ► Bluehost: 👇
+👉 https://www.bluehost.com/track/gabmoroni/
+
+Nota: Los links en la descripción son links de afiliado, lo que significa que recibiré una pequeña comisión si te registras usando esos links sin ningún costo extra para ti. Todos los links de afiliados son productos o servicios en los que creo y uso personalmente.
+
+Music from https://filmmusic.io
+""Blippy Trance"" by Kevin MacLeod (https://incompetech.com)
+License: CC BY (http://creativecommons.org/licenses/by/4.0/)",PT22M38S,C#
+YBisOscPHBQ,1時間でC#の超基本をマスター！/楽しく学ぶプログラミング,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/YBisOscPHBQ?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""1時間でC#の超基本をマスター！/楽しく学ぶプログラミング""></iframe>",26088,583,1830,ロックシステムアカデミー！ゆっくりプログラミング学習,1時間でC#の超基本をマスター！/楽しく学ぶプログラミング,2021-11-12,https://i.ytimg.com/vi/YBisOscPHBQ/mqdefault.jpg,"この動画は全12回のC#基礎学習動画を1本にまとめたものになります。
+C#の超基礎的な部分をろっくん＆てむと一緒に1時間で学べます。
+初めてプログラミングを勉強する方にオススメです！。
+
+◆運営
+大阪梅田から1駅、大阪福島にある「実務を経験エンジニアスクール」ロックシステムアカデミーです！
+https://rocksystem.co.jp/academy/
+
+◆目次
+00:00:00　C#とは
+00:02:12　visualstudioで環境構築
+00:04:13　文字を出力するプログラム
+00:08:23　プログラムにコメントを書く
+00:12:40　変数を学ぼう
+00:17:12　演算子を学ぼう　
+00:21:58　計算アプリを作ろう
+00:27:10　データの型を学ぼう
+00:30:53　if文の基礎
+00:35:22　くじ引きアプリを作ろう
+00:40:37　繰り返し処理、for文
+00:44:57　FizzBuzz問題
+
+◆文字起こし&ソースコード、問題は下記ブログから！
+C#とは　https://rocksystem.co.jp/blog/page.php?entry_id=158
+visualstudioで環境構築　https://rocksystem.co.jp/blog/page.php?entry_id=159
+文字を出力するプログラム　https://rocksystem.co.jp/blog/page.php?entry_id=160
+プログラムにコメントを書く　https://rocksystem.co.jp/blog/page.php?entry_id=164
+変数を学ぼう　https://rocksystem.co.jp/blog/page.php?entry_id=165
+演算子を学ぼう　https://rocksystem.co.jp/blog/page.php?entry_id=167
+計算アプリを作ろう　https://rocksystem.co.jp/blog/page.php?entry_id=169
+データの型を学ぼう　https://rocksystem.co.jp/blog/page.php?entry_id=170
+if文の基礎　https://rocksystem.co.jp/blog/page.php?entry_id=172
+くじ引きアプリを作ろう　https://rocksystem.co.jp/blog/page.php?entry_id=174
+繰り返し処理、for文　https://rocksystem.co.jp/blog/page.php?entry_id=176
+FizzBuzz問題　https://rocksystem.co.jp/blog/page.php?entry_id=175",PT50M14S,C#
+1UQZf4o9SNM,CRUD Operation in C# Console Application using SQL Server,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/1UQZf4o9SNM?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""CRUD Operation in C# Console Application using SQL Server""></iframe>",2082,32,242,Everything About Technical,CRUD Operation in C# Console Application using SQL Server,2022-07-24,https://i.ytimg.com/vi/1UQZf4o9SNM/mqdefault.jpg,"GITHUB CODE - https://github.com/BHARATJOHRI/CRUD_CONSOLE
+
+CRUD Operation In 4 Minutes ASP.NET Core Web App In Hindi - https://youtu.be/r-RAseU5154",PT22M16S,C#
+acFQbgt1LsU,Space Invaders Clone in C#  // Code Review,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/acFQbgt1LsU?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Space Invaders Clone in C#  // Code Review""></iframe>",56358,1539,513000,The Cherno,Space Invaders Clone in C#  // Code Review,2022-03-18,https://i.ytimg.com/vi/acFQbgt1LsU/mqdefault.jpg,"Visit https://brilliant.org/TheCherno to get started learning STEM for free, and the first 200 people will get 20% off their annual premium subscription.
+
+Patreon ► https://patreon.com/thecherno
+Instagram ► https://instagram.com/thecherno
+Twitter ► https://twitter.com/thecherno
+Discord ► https://discord.gg/thecherno
+
+Send an email to chernoreview@gmail.com with your source code, a brief explanation, and what you need help with/want me to review and you could be in the next episode of my Code Review series! Also let me know if you would like to remain anonymous.
+
+Chapters:
+----------------
+0:00 - What we're doing today
+1:53 - Playing the game
+4:43 - Looking at the project
+10:00 - What if it returns null?
+15:13 - Keep your scopes tight!
+18:17 - What a big deal is to Cherno
+20:19 - Optimizing for loops
+27:14 - Always consider performance
+30:33 - Organizing and re-using code via abstraction
+35:52 - We ate an entire chicken for lunch
+36:37 - Don't go too far with abstraction
+37:34 - Intro cinematic animation
+41:29 - State machine
+43:07 - Using the visual editor to your advantage
+48:34 - How to move aliens in a space invaders game
+56:19 - Delta time should be limited
+1:00:23 - Alien AI behavior and gameplay programming
+
+This video is sponsored by Brilliant.
+
+#CodeReview",PT1H10M52S,C#
+pF1Qh2Ty7MQ,How to bend reality to your will with C# Source Generators,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/pF1Qh2Ty7MQ?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""How to bend reality to your will with C# Source Generators""></iframe>",41000,948,173000,Nick Chapsas,How to bend reality to your will with C# Source Generators,2021-04-12,https://i.ytimg.com/vi/pF1Qh2Ty7MQ/mqdefault.jpg,"Become a Patreon and get source code access: https://www.patreon.com/nickchapsas
+Check out my courses: https://nickchapsas.com
+
+Hello everybody I'm Nick and in this video I will show you how you can use C# 9's Source Generators feature to write code that writes code. The posibilities are limitless, from mappers, to source generated dependency injection. In this video I will show you just a couple of examples and scratch the surface of the feature's potential.
+
+Don't forget to comment, like and subscribe :)
+
+Social Media:
+Follow me on GitHub: http://bit.ly/ChapsasGitHub
+Follow me on Twitter: http://bit.ly/ChapsasTwitter
+Connect on LinkedIn: http://bit.ly/ChapsasLinkedIn
+
+Keep coding merch: https://keepcoding.shop
+
+#dotnet #csharp #sourcegenerators",PT21M40S,C#
+fnyiDMvhJOc,C# CRUD Operations With SQLite Database Using Entity Framework,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/fnyiDMvhJOc?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# CRUD Operations With SQLite Database Using Entity Framework""></iframe>",14317,200,1470,Tactic Devs,C# CRUD Operations With SQLite Database Using Entity Framework,2021-08-13,https://i.ytimg.com/vi/fnyiDMvhJOc/mqdefault.jpg,"#EntityFramework #SQLite #CRUD
+
+Project Source Code
+https://git.io/J0kYN",PT40M5S,C#
+JSfLfnZvwuo,4. Moq Framework for unit testing c# | Mock a method or service | xUnit Test tutorial | Hindi,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/JSfLfnZvwuo?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""4. Moq Framework for unit testing c# | Mock a method or service | xUnit Test tutorial | Hindi""></iframe>",96,7,2220,simply teching,4. Moq Framework for unit testing c# | Mock a method or service | xUnit Test tutorial | Hindi,2023-01-26,https://i.ytimg.com/vi/JSfLfnZvwuo/mqdefault.jpg,"In this video I have explained what is moq framework and why we need this if we have different other ways to mock a method or service.
+There are many beneficial and important information on moq in this video so watch and enjoy the beauty of Unit Testing.
+
+If you enjoyed the video then do like it and don't forget to subscribe the channel.
+
+Subscribe the channel : https://www.youtube.com/channel/UCbiOBtAI-Mqr29x_zuISsWw?sub_confirmation=1
+
+Visit playlist: https://www.youtube.com/playlist?list=PLJhxHp6j1l-9iNuiHCt5FtpT7P0BhTFSm
+-----------------------------------------------------------------------------
+Other playlists
+Design Pattern Playlist: https://www.youtube.com/playlist?list=PLJhxHp6j1l-8_kjEL2hVJDs0_4eJbHtWH
+C# basics Tutorial Playlist: https://youtube.com/playlist?list=PLJhxHp6j1l-9RHSkg_CZXZAI45aVmrQXD
+Concept Mania Playlist: https://youtube.com/playlist?list=PLJhxHp6j1l--55_lvr4A5IT9MqUzp_lY4
+Tips and Tricks: https://www.youtube.com/playlist?list=PLJhxHp6j1l-8rPDhuiVf5UuDbTjh1DDZp
+MSTest Unit Test: https://www.youtube.com/playlist?list=PLJhxHp6j1l-_0zRBEVssY_SJBvtF0c0sI
+----------------------------------------------------------------------------
+Connect with me on:
+Twitter: https://twitter.com/simplyteching
+Linked-in: https://www.linkedin.com/company/simply-teching
+Facebook: https://fb.me/simplyteching
+
+#unittesting #xUnit #simplyteching #moqframework",PT29M8S,C#
+CJVE9EbZon8,C# full course in Telugu | C# tutorials in telugu | C# in 10 hours,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/CJVE9EbZon8?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# full course in Telugu | C# tutorials in telugu | C# in 10 hours""></iframe>",8224,216,230000,Python Life,C# full course in Telugu | C# tutorials in telugu | C# in 10 hours,2022-11-10,https://i.ytimg.com/vi/CJVE9EbZon8/mqdefault.jpg,"Click Here for Python Course in Telugu 👇
+https://pythonlife.in/python-course-in-telugu.html
+
+
+
+GitHub link:
+https://github.com/kiransagar1
+
+Instagram-link:
+https://www.instagram.com/pythonlifetelugu/?hl=en
+
+Facebook link:
+https://m.facebook.com/Python-life-telugu-107111387790463/
+
+linkedin:
+https://www.linkedin.com/in/kiran-sagar-a00a761b2
+
+Telegramlink:
+https://t.me/python_life_telugu
+
+
+#pythonlife.in",PT9H12M24S,C#
+C2gICO7pu_Y,Tech Interview Fest | Моковое cобеседование для C# Junior | Solvery + @DotNetRu,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/C2gICO7pu_Y?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Tech Interview Fest | Моковое cобеседование для C# Junior | Solvery + @DotNetRu""></iframe>",2737,121,936,Solvery,Tech Interview Fest | Моковое cобеседование для C# Junior | Solvery + @DotNetRu,2022-11-08,https://i.ytimg.com/vi/C2gICO7pu_Y/mqdefault.jpg,"Партнерский стрим с моковым собеседованием на C# Junior позицию в рамках Tech Interview Fest
+
+Solvery при поддержке сообщества DOTNET.RU (https://dotnet.ru/communities) Junior C# позицию в прямом эфире! Присоединяйтесь, поддержите участника и узнайте, как проходить техническое собеседование!
+
+Мероприятие поможет вам окунуться в условия технического собеседования в компании, актуализировать знания в соответствии с рынком, а также получить обратную связь от ментора и успешно проходить собеседования, получая офферы.
+
+Собеседование проведет Дамир Мансуров (https://solvery.io/ru/mentor/damir_mansurov), Back-end Software Engineer в mandarin.io, а также ментор сервиса Solvery по C# разработке. Денис работает с учениками разных уровней и провёл более 202 занятий, среди которых подготовка к собеседованию. 
+
+После мероприятия вы уйдёте с полезными рекомендациями, а также актуальными вопросами, которые вам могут задать на реальном собеседовании.
+
+_________________________ 
+
+Официальный партнер Live интервью — DOTNET.RU (https://dotnet.ru/communities): Группа независимых сообществ .NET разработчиков со всей России. Мы объединяем людей вокруг .NET платформы, чтобы способствовать обмену опытом и знаниями. Проводим регулярные встречи, чтобы делиться новостями и лучшими практиками в разработке программных продуктов
+
+Больше моковых собеседований в рамках TIF: https://events.solvery.io/tech-interv...
+
+------------------------------
+
+С 7 ноября по 11 ноября разыгрываем 1 бесплатное занятие с ментором (стоимостью до 3000 руб.).
+
+Для участия в розыгрыше нужно:
+- Подписаться на наш ютьюб канал
+- Оставить комментарий ПОД видео (после трансляции): ""Почему вы хотите заниматься с ментором?""
+ 
+14 ноября мы выберем лучший комментарий и объявим победителя! :)
+
+------------------------------
+
+Подписывайтесь на наш канал, чтобы не пропустить анонсы новых прямых эфиров.
+А также заглядывайте в наши соцсети, там много полезной информации: 
+https://www.instagram.com/solvery.io/
+https://vk.com/solvery_io
+
+-----------------------------
+
+Solvery (https://solvery.io) — крупнейший в РФ маркет-плейс менторов из IT для индивидуальных занятий. В Solvery за знаниями приходят как начинающие, так и опытные IT специалисты. Наши менторы помогают решать самые разные задачи благодаря индивидуальному подходу к вашему запросу: будь то моковые интервью, помощь с трудоустройством, повышение грейда, решение сложной технической задачи или подготовка портфолио.
+
+Менторы Solvery —  это специалисты Middle+, Senior уровня из крупных IT-компаний: Ozon, Vk, Яндекс и многих других. На сервисе уже прошло более 16000+ занятий.
+Выбрать ментора:  https://vk.cc/cg0l6u",PT1H21M51S,C#
+U_Vm_AKzH3M,Top 100  C#/ .NET/ Web API/ SQL Interview Questions,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/U_Vm_AKzH3M?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Top 100  C#/ .NET/ Web API/ SQL Interview Questions""></iframe>",196488,4266,10000,Interview Happy,Top 100  C#/ .NET/ Web API/ SQL Interview Questions,2022-03-23,https://i.ytimg.com/vi/U_Vm_AKzH3M/mqdefault.jpg,"1. Full .NET Interview Course (with PDF Book)
+
+C# / ASP.NET Core / MVC / API - Top 500 Interview Questions
+
+https://www.udemy.com/course/csharp-oops-mvc-asp-dotnet-core-webapi-sql-questions-mock-interviews/?referralCode=6922C9482CFE5A11B863
+
+Don't worry if course not helping you, Udemy has 30 days Free Refund Policy.
+
+
+2. Quick Revision Book (PDF format)
+
+Top 500 .NET Interview Questions - OOPS/ C#/ ASP.Net/ MVC/ SQL /.Net Core /Web API
+
+https://imojo.in/interviewhappy
+
+50% Discount Applied on above link.
+
+Don't worry if book not helping you, I will return 100% of your money with in 7 days of purchase. Just mail me at anuragrawat123@gmail.com.
+
+My best wishes are with you.
+
+
+This video contains top 100 questions asked in .NET interviews.
+
+00:00 – Introduction
+01:04 - Q1. What are the advantages of OOPS?
+02:47 - Q2. What are the limitations of OOPS?
+03:32 - Q3. What are the different types of Inheritance?
+06:45 - Q4. How to prevent a class from being Inherited?
+07:36 - Q5. What is Polymorphism and what are its types?
+08:12 - Q6. What is Method Overloading? In how many ways a method can be overloaded?
+10:58 - Q7. What is the difference between Overloading and Overriding?
+13:05 - Q8. What is the difference between an Abstract class and an Interface (atleast 4)?
+
+15:23 - Q9. When to use Interface and when Abstract class?
+18:59 - Q10. Why to even create Interfaces?
+20:40 - Q11. Do Interface can have a Constructor?
+21:05 - Q12. Can you create an instance of an Abstract class or an Interface?
+21:29 - Q13. What is the difference between “out” and “ref” parameters?
+25:27 - Q14. What is the purpose of “params” keyword?
+26:28 - Q15. What are Access Specifiers? What is the default access modifier in a class?
+29:11 - Q16. How to implement Exception Handling in C#?
+30:16 - Q17. Can we execute multiple Catch blocks?
+30:41 - Q18. What is a Finally block and give an example when to use it?
+31:15 - Q19. Can we have only “Try” block without “Catch” block?
+32:06 - Q20. What is the difference between “throw ex” and “throw”?
+33:32 - Q21. What are the Loop types in C#?
+35:20 - Q22. What is the difference between “continue” and “break” statement?
+36:33 - Q23. What is the difference between Array and ArrayList (atleast 2)?
+37:52 - Q24. What is the difference between Arraylist and Hashtable?
+38:26 - Q25. What is “this” keyword in C#? When to use it?
+40:06 - Q26. What is the purpose of “using” keyword in C#?
+42:38 - Q27. What is the difference between “is” and “as” operators?
+44:31 - Q28. What is the difference between “Readonly” and “Constant” variables (atleast 3)?
+46:34 - Q29. What is Boxing and Unboxing?
+47:50 - Q30. What is the difference between “String” and “StringBuilder”? When to use what?
+50:16 - Q31. What are Nullable types?
+51:21 - Q32. What are the important components of .NET framework? What are their roles?
+54:22 -  Q33. What is an Assembly? What are the different types of assembly in .NET?
+56:41 - Q34. What is GAC?
+57:04 - Q35. What is Garbage Collection(GC)?
+58:44 - Q36. Can we force Garbage Collector to run?
+59:26 - Q37. What is the difference between Process and Thread?
+01:00:22 - Q38. Explain Multithreading?
+01:01:40 - Q39. What is Reflection?
+01:05:26 – Q40. What is MVC (Model View Controller)? Explain MVC Life cycle.
+01:06:46 - Q41. What are the advantages of MVC over Web Forms (atleast 3)?
+01:11:44 - Q42. What are the different return types of a controller Action method?
+01:14:45 - Q43. What are Filters and their types in MVC?
+01:17:23 - Q44. What is Authentication and Authorization in ASP.NET MVC?
+01:19:10 - Q45. What are the types of Authentication in ASP.NET MVC?
+01:21:50 - Q46. What is Output Caching in MVC? How to implement it?
+01:23:45 - Q47. What is the difference between ViewData, ViewBag & TempData?
+01:25:03 - Q48. How can we pass the data from controller to view in MVC?
+01:25:22 - Q49. What is Partial View?
+01:26:07 - Q50. What are Areas in MVC?
+01:26:48 - Q51. How Validation works in MVC?
+01:27:39 - Q52. Explain the concept of MVC Scaffolding?
+01:28:38 - Q53. What is Bundling and Minification in MVC?
+01:29:58 - Q54. How to implement Security in web applications in MVC?
+01:35:44 – Q55. What are the events in Page Life Cycle? In which event are the controls fully loaded?
+01:37:49 - Q56.  What is the difference between Server.Transfer() and Response.Redirect()?
+01:40:44 - Q57. Where the ViewState is stored after the page postback?
+01:41:06 - Q58. What are the different types of Caching?
+01:42:38 - Q59. What are the different Session state management options available in asp.net?
+01 :43:50 - Q60. What are the main components of ADO.NET?
+
+
+Maximum limit has reached for the description word limit, so more questions cannot be listed here.
+I apologies for the inconvenience.",PT2H49M20S,C#
+PFDbtYQPIb0,Microsoft Bot Framework v4 C# Beginner Chatbot Training Tutorial by JD Bots | Dewiride Technologies,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/PFDbtYQPIb0?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Microsoft Bot Framework v4 C# Beginner Chatbot Training Tutorial by JD Bots | Dewiride Technologies""></iframe>",859,13,11,Dewiride Technologies,Microsoft Bot Framework v4 C# Beginner Chatbot Training Tutorial by JD Bots | Dewiride Technologies,2022-09-22,https://i.ytimg.com/vi/PFDbtYQPIb0/mqdefault.jpg,"Introductory Beginner Chatbot Training on Microsoft Bot Framework v4 .NET Core C#. Concepts Covered -
+1. Basics of Microsoft Bot Framework
+2. Echo Bot Demo
+4. Core Bot (Flight Booking Bot Demo)
+5. Deploy the Bot to Azure
+6. Connect to Microsoft Teams",PT2H2M27S,C#
+BYKC9w-eHN4,Tutorial RabbitMQ Con ejemplo en C#,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/BYKC9w-eHN4?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Tutorial RabbitMQ Con ejemplo en C#""></iframe>",6418,255,10600,NetMentor,Tutorial RabbitMQ Con ejemplo en C#,2022-02-22,https://i.ytimg.com/vi/BYKC9w-eHN4/mqdefault.jpg,"En este vídeo vamos a ver como funciona RabbitMQ para posteriormente hacer una prueba de funcionamiento y abstraerlo en código.
+
+Si te gusta el contenido, puedes apoyar al canal invitandome a un café https://www.buymeacoffee.com/netmentor
+
+
+00:00 Introducción
+01:07 Qué es RabbitMQ
+1:20 Cómo funciona RabbitMQ
+2:55 Exchange tipo direct en RabbitMQ
+3:42 Exchange tipo topic en RabbitMQ
+4:39 Exchange tipo header en RabbitMQ
+5:33 Exchange tipo fanout en RabbitMQ
+6:20 Creación de la infraestructura de RabbitMQ con docker compose
+11:50 Demo de RabbitMQ utilizando el navegador
+13:40 Explicación pubublicar mensajes en RabbitMQ con la librería distribt
+19:40 Explicación consumir mensajes de RabbitMQ con la librería distribt",PT25M44S,C#
+6udlQakSXZY,"From Turbo Pascal to Delphi to C# to TypeScript, an interview with PL legend Anders Hejlsberg","<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/6udlQakSXZY?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""From Turbo Pascal to Delphi to C# to TypeScript, an interview with PL legend Anders Hejlsberg""></iframe>",33332,1359,19800,Context Free,"From Turbo Pascal to Delphi to C# to TypeScript, an interview with PL legend Anders Hejlsberg",2022-10-11,https://i.ytimg.com/vi/6udlQakSXZY/mqdefault.jpg,"Thanks much to Anders for the interview!
+
+0:00 Video foreword
+0:20 Introduction & current work
+1:06 Getting into programming languages & Turbo Pascal
+2:11 Lessons from early personal computing
+3:26 Borland experience
+4:36 Delphi
+6:34 Graphical programming languages
+7:54 Switch to Microsoft & background for .NET
+9:56 C# in the context of Java
+11:18 Classes vs structs & value objects
+14:16 Getting into TypeScript
+17:02 Surprising success
+18:19 JS functional programming & TS feature set
+19:55 Common Language Runtime & language vs platform
+22:18 Future impact of machine learning on programming
+24:02 Closing words",PT24M42S,C#
+1HC5qapv6Qw,EP81 - Tudo que um desenvolvedor .NET C# backend precisa saber!,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/1HC5qapv6Qw?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""EP81 - Tudo que um desenvolvedor .NET C# backend precisa saber!""></iframe>",14534,1369,2820,"Robinson, o Programador",EP81 - Tudo que um desenvolvedor .NET C# backend precisa saber!,2022-01-21,https://i.ytimg.com/vi/1HC5qapv6Qw/mqdefault.jpg,"GitHub do MoienTajik
+https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+
+Aqui no canal eu falo de todos os temas relacionados ao mundo do desenvolvimento de software, das tecnologias que nos rodeiam, padrões de desenvolvimento, arquitetura de software e conceitos.
+
+Meu objetivo é abrir a sua mente e te mostrar o quanto esse mundo é vasto e divertido de explorar!",PT24M49S,C#
+d12RCPgCe4U,(Updated) - How to create a full stack C# dev. environment in NeoVim on Windows 10 from scratch,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/d12RCPgCe4U?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""(Updated) - How to create a full stack C# dev. environment in NeoVim on Windows 10 from scratch""></iframe>",2486,63,72,David,(Updated) - How to create a full stack C# dev. environment in NeoVim on Windows 10 from scratch,2022-08-14,https://i.ytimg.com/vi/d12RCPgCe4U/mqdefault.jpg,"0:00 - Intro
+1:51 - Folder options
+2:16 - winget vs chocolatey
+3:27 - Install Windows Terminal
+5:30 - Customize Terminal Look and Feel
+19:04 - btm
+20:09 - Vertical and horizontal splits
+20:57 - Install NeoVim
+22:06 - Quick intro to NeoVim
+25:16 - Create init.lua
+26:42 - Install Paq package manager
+28:02 - Configure Paq in init.lua
+31:31 - Install .Net framework 6 SDK and intro to Omnisharp
+33:27 - .Net demo project ""react-demo""
+34:39 - Install Omnisharp Server
+35:41 - Intro to NERDTree
+36:42 - ALE
+39:00 - Remap ""NERDTree"" to ""NT"" in init.lua
+40:32 - Ripgrep and Telescope
+47:05 - asyncomplete.vim
+49:15 - Signify
+53:04 - Install Typescript
+54:06 - Conquer of Completion
+1:05:08 - Legacy app
+1:10:23 - Using Powershell profile for extra productivity
+
+Links:
+init.lua file - https://gist.github.com/jdavid82/84527270ea1fa57cd98da290e0a3468b
+Windows Terminal: https://github.com/microsoft/terminal/releases
+Custom prompt for Powershell tutorial: https://docs.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup
+Oh My Posh Themes: https://ohmyposh.dev/docs/themes
+Text to add to powershell profile:
+`oh-my-posh init pwsh --config ""$env:POSH_THEMES_PATH\easy-term.omp.json"" | Invoke-Expression`
+Powershell execution policies: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.2
+Background image: https://unsplash.com/photos/iSYYLt2rKac
+Paq package manager: https://github.com/savq/paq-nvim
+Omnisharp: https://www.omnisharp.net/
+Ale: https://github.com/dense-analysis/ale
+Ripgrep: https://github.com/BurntSushi/ripgrep
+Telescope: https://github.com/nvim-telescope/telescope.nvim
+Plenary nvim: https://github.com/nvim-lua/plenary.nvim
+asyncomplete.vim: https://github.com/prabirshrestha/asyncomplete.vim
+vim signify: https://github.com/mhinz/vim-signify
+Conquer of Completion: https://github.com/neoclide/coc.nvim",PT1H23M54S,C#
+l2KPFFIyfOs,PayPal integration Step by step in asp.net Web Api C#,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/l2KPFFIyfOs?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""PayPal integration Step by step in asp.net Web Api C#""></iframe>",2327,232,546,Code Learner,PayPal integration Step by step in asp.net Web Api C#,2022-10-14,https://i.ytimg.com/vi/l2KPFFIyfOs/mqdefault.jpg,"Paypal Integration And Authentication 
+Paypal Sandbox And Live API
+Get PayPal transaction History
+How to call PayPal API in Postman
+How to integrate PayPal API in asp.net C#
+
+
+#paypal #asp #gateway #api 
+#asp
+#asp.net
+#angular 
+#react 
+#dot.net core
+#sql 
+#sqlserver 
+#asp.net MVC",PT23M31S,C#
+0kGeaO3WRGs,APRENDE a consumir un SERVICIO WEB SOAP con C# .NET,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/0kGeaO3WRGs?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""APRENDE a consumir un SERVICIO WEB SOAP con C# .NET""></iframe>",6109,723,398,XperTek,APRENDE a consumir un SERVICIO WEB SOAP con C# .NET,2022-08-13,https://i.ytimg.com/vi/0kGeaO3WRGs/mqdefault.jpg,"Aprende a implementar interoperabilidad entre sistemas, por medio de servicios web SOAP.
+Implementamos con C# .NET para consumir un servicio web e prueba.
+Para que realicen pruebas con SOAPUI y practiquen implementando una aplicación que consuma un servicio web SOAP pueden utilizar alguno de los siguientes enlaces:
+http://www.dataaccess.com/webservicesserver/numberconversion.wso?WSDL
+http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL
+
+Déjenme sus dudas o consultas en los comentarios del vídeo.",PT34M41S,C#
+cqCBhkNroDI,Every single feature added in C# 11,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/cqCBhkNroDI?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Every single feature added in C# 11""></iframe>",79363,2615,173000,Nick Chapsas,Every single feature added in C# 11,2022-11-14,https://i.ytimg.com/vi/cqCBhkNroDI/mqdefault.jpg,"Until the 28th of Nov 2022 use discount code BF2022 for up to 25% off
+at: https://nickchapsas.com
+
+
+Become a Patreon and get source code access: https://www.patreon.com/nickchapsas
+
+Hello everybody I'm Nick and in this video I will introduce you to every single feature added in C# 11.
+
+Timestamps
+Raw string literals - 0:00
+List patterns - 5:04
+Generics on attributes - 7:41
+Extended nameof scope - 9:11
+UTF-8 string literals - 10:08
+String interpolated new line - 12:29
+Generic maths/abstracting over static members - 13:23
+Required members - 16:14
+File scoped types - 17:45
+Pattern matching on Spans for constant strings - 19:47
+Auto-default structs - 20:57
+Improved method group conversion to delegate - 21:51
+Numeric IntPtr - 22:52
+ref fields and ref scoped variables - 23:34
+
+Don't forget to comment, like and subscribe :)
+
+Social Media:
+Follow me on GitHub: http://bit.ly/ChapsasGitHub
+Follow me on Twitter: http://bit.ly/ChapsasTwitter
+Connect on LinkedIn: http://bit.ly/ChapsasLinkedIn
+
+Keep coding merch: https://keepcoding.shop
+
+#csharp #dotnet",PT27M7S,C#
+FGqj4q09NtA,"Create Login in WPF, MVVM Pattern, C# and SQL Server - Step by Step + Display user data","<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/FGqj4q09NtA?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Create Login in WPF, MVVM Pattern, C# and SQL Server - Step by Step + Display user data""></iframe>",29756,450,34500,RJ Code Advance EN,"Create Login in WPF, MVVM Pattern, C# and SQL Server - Step by Step + Display user data",2022-07-10,https://i.ytimg.com/vi/FGqj4q09NtA/mqdefault.jpg,"⏮️ Previous Video: WPF UI/ Design a Modern Login Form/ Introducing to WPF
+https://youtu.be/pZGcRHgmn8k
+
+⏭️ Next Video: WPF & MVVM/ Modern Main UI Design
+https://youtu.be/kxhvwGEqvcs
+
+🎞️ Hi, in this tutorial we will learn how to Create Login Form in WPF, MVVM Pattern, C# and SQL Server, additionally we will display the data of the current user in the main window.
+Content:
+00:00 Introduction to MVVM
+02:18 Database
+02:53 Implement View Models
+03:25 ViewModel Base Class (INotifyPropertyChanged)
+04:20 ViewModel Command Class (ICommand)
+06:33 Login ViewModel Class
+11:44 Set Binding between the View & ViewModel
+13:49 Create a Bindable PasswordBox (Dependency Property)
+19:50 Implement Models
+20:33 Implement Data Access Objects
+26:28 Register the user in the Thread
+27:33 Configure Application Startup
+30:19 Retrieve and Display user data (Again using MVVM)
+
+⬇️ DOWNLOAD PROJECT
+https://rjcodeadvance.com/inicio-de-sesion-en-wpf-implementando-el-patron-mvvm-c-y-sql-server/
+
+📲 Social Media:
+Facebook: https://facebook.com/rjcodeadvanceEN
+Instagram: https://instagram.com/rjcodeadvanceen
+Website: https://rjcodeadvance.com
+
+#WPF #MVVM #LoginForm #SQL #ModernForm #modernui #design #CSharp #VisualBasic #VB.NET #VisualStudio #Custom #Chart #FlatUI #Desktop",PT36M18S,C#
+gDdPGI1c6ro,C# Client/Server WebSocket Application in ASP.Net Core | Visual Studio,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/gDdPGI1c6ro?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# Client/Server WebSocket Application in ASP.Net Core | Visual Studio""></iframe>",41059,396,20400,Hacked,C# Client/Server WebSocket Application in ASP.Net Core | Visual Studio,2021-06-07,https://i.ytimg.com/vi/gDdPGI1c6ro/mqdefault.jpg,"C# Client/Server WebSocket Application in ASP.Net Core | Visual Studio 2019
+WEBSOCKET: 
+WebSocket provides full duplex communication channel between a client (browser, mobile device, pc) endpoint and a service endpoint over a single TCP connection.  
+Prerequisite: 
+Visual Studio 2019 
+.Net Core Workloads",PT30M30S,C#
+wBntAx7-Jzs,PraciTest Selenium C# Integration,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/wBntAx7-Jzs?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""PraciTest Selenium C# Integration""></iframe>",353,1,1080,PractiTest,PraciTest Selenium C# Integration,2022-06-20,https://i.ytimg.com/vi/wBntAx7-Jzs/mqdefault.jpg,Learn how to integrate Selenium C# with PractiTest to centralize all your testing efforts and gain valuable insights.,PT25M20S,C#
+Ufgq6_QhVKw,Create Your Own TwitchBot in C# using OAuth (with TwitchLib) - BEGINNER FRIENDLY,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/Ufgq6_QhVKw?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Create Your Own TwitchBot in C# using OAuth (with TwitchLib) - BEGINNER FRIENDLY""></iframe>",3448,59,492,HonestDanGames,Create Your Own TwitchBot in C# using OAuth (with TwitchLib) - BEGINNER FRIENDLY,2021-11-04,https://i.ytimg.com/vi/Ufgq6_QhVKw/mqdefault.jpg,"Dan goes over making TwitchBot that uses OAuth by making a C# Win Form application in Visual Studio. This video focuses getting your bot to connect to the chat and make API calls - leaving the creative part of bot development for you to continue with!
+
+The TwitchLib library is used to help with the twitch API / Client connections. Credit to SwiftySpiffy for his support when I was originally making my bot.
+
+Honest Dan is a professional game developer based in the UK. He streams game development on twitch.tv/honestdangames. Join the community: https://www.discord.gg/Zmp5f5ARqQ.",PT55M50S,C#
+nfCi1TC27BE,C# என்றால் என்ன ? - C# Programming in Tamil - C# in Tamil - Introduction to C# - What is C#,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/nfCi1TC27BE?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# என்றால் என்ன ? - C# Programming in Tamil - C# in Tamil - Introduction to C# - What is C#""></iframe>",7002,314,156000,KaaShiv InfoTech,C# என்றால் என்ன ? - C# Programming in Tamil - C# in Tamil - Introduction to C# - What is C#,2022-05-10,https://i.ytimg.com/vi/nfCi1TC27BE/mqdefault.jpg,"C# என்றால் என்ன ? - C# Programming in Tamil - C# in Tamil - Introduction to C# - What is C#
+
+#csharp #c# 
+
+.Net Training in Chennai : https://www.kaashivinfotech.com/dotnet-training-in-chennai/
+C# Tutorial : https://www.wikitechy.com/tutorials/csharp/csharp-tutorial
+What is C# : https://www.wikitechy.com/tutorials/csharp/what-is-csharp
+C# Class : https://www.wikitechy.com/tutorials/csharp/csharp-class
+
+Follow us on
+
+Facebook : https://www.facebook.com/KaaShivInfoTech
+LinkedIn: https://www.linkedin.com/company/kaashiv-infotech/
+TwitterIn: https://twitter.com/kaashivinfotech
+Instagram : https://www.instagram.com/kaashiv_infotech/
+Telegram : https://t.me/kaashivinfotech
+Pinterest : https://in.pinterest.com/kaashivinfotech/
+
+For more information, call us or Whatsapp at +91 7667662428 | +91 7667668009 or Please write back to us at kaashiv.info@gmail.com",PT20M20S,C#
+Fi8Jf4hGscE,Refactoring switch statement into the Strategy Pattern in C#,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/Fi8Jf4hGscE?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Refactoring switch statement into the Strategy Pattern in C#""></iframe>",4806,131,3930,Codemanship,Refactoring switch statement into the Strategy Pattern in C#,2021-05-08,https://i.ytimg.com/vi/Fi8Jf4hGscE/mqdefault.jpg,"In today's video diary entry, Jason Gorman refactors a rigid and brittle switch statement into a more flexible object-oriented design",PT23M15S,C#
+nqs_ZZ2bUYg,Web API token based authentication example C# step by step | Asp.Net Core,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/nqs_ZZ2bUYg?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Web API token based authentication example C# step by step | Asp.Net Core""></iframe>",24539,309,3530,AzureTeach•Net,Web API token based authentication example C# step by step | Asp.Net Core,2021-10-17,https://i.ytimg.com/vi/nqs_ZZ2bUYg/mqdefault.jpg,"In this video I have shown Web API token based authentication step by step using asp.net core 3.1. 
+JWT (JSON Web Token) is a very common format of token-based implementation. It is so popular right now that it has become a de-facto standard for token-based authentication.
+JWT token has 3 parts.
+Header - Header gives the information about the algorithm used
+Payload - this will have claims information
+Signature - A hash to validate ASP.net Core JWT token.
+-------------------------------
+To implement it programmatically, we have to create a Token provider in our asp.net core web api project and use a private key to generate the token.  User provides the credentials and the token manager validates them and provides a JWT token if the user name and password are correct. In subsequent requests, client sends the JWT token back to the asp.net core web api application and based on the provided token, asp.net core application validates and returns the response if the token is valid.
+
+We can give different parameters to asp.net core web api JWT token validation parameters. 
+
+SaveToken - If it is set to true saves the token Authentication properties and we can retrieve it using HttpContent.
+
+ValidateIssuer - Multiple asp.net core web api applications can generate same JWT tokens, so If it is set to true and add the Issuer details, asp.net core web api uses these details to validate the token.
+----------------------------
+Below are the list of chapters
+00:00 Introduction
+00:26 JWT Token Architecture Diagram
+01:28  Creating Asp.net Core Web Api Project
+03:27 Adding logic to JWTTokenManager
+08:35 Modifying Startup.cs
+12:35 Creating/Modifying Controllers
+14:46 Running Asp.net Core Web API appliction
+16:35 JWT Token Parameters explanation
+
+Buy Me A Coffee - https://www.buymeacoffee.com/azureteachnet",PT25M6S,C#
+xE0qtaUBxYM,Testes unitários com Mock usando xUnit no C#,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/xE0qtaUBxYM?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Testes unitários com Mock usando xUnit no C#""></iframe>",5187,240,435,Aguiar Dev,Testes unitários com Mock usando xUnit no C#,2021-05-12,https://i.ytimg.com/vi/xE0qtaUBxYM/mqdefault.jpg,"Neste vídeo você vai aprender o que são e como realizar testes unitários no C# utilizando a biblioteca xUnit para testes. E também como fazer um mock com a biblioteca Moq.
+
+Conhece o curso Full Stack Javascript da OneBit Code? Material de qualidade e por um preço super acessível. Clique no link, sem compromisso, e saiba mais! https://go.hotmart.com/O56819762A
+
+Link para o projeto no Github: https://github.com/aguiardev/testes-com-xunit
+
+Redes Sociais
+
+Instagram - https://www.instagram.com/aguiardev/
+Facebook - https://www.facebook.com/aguiardev/
+Twitter - https://twitter.com/AguiarDev91
+LinkedIn - https://www.linkedin.com/company/aguiardev/
+
+Podcast
+
+Spotify - https://open.spotify.com/show/4O1AS5tQc4aOGenOnaD0Zr
+Deezer - https://www.deezer.com/br/show/2372092
+Google Podcast - https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80Yjg0ZmI1Yy9wb2RjYXN0L3Jzcw",PT40M5S,C#
+yfxkWlDuJVo,C# - EP1 - Instalando e configurando Visual Studio 2022,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/yfxkWlDuJVo?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""C# - EP1 - Instalando e configurando Visual Studio 2022""></iframe>",1467,56,232,Federal Case,C# - EP1 - Instalando e configurando Visual Studio 2022,2022-10-11,https://i.ytimg.com/vi/yfxkWlDuJVo/mqdefault.jpg,Faça você mesmo a instalação e configuração da melhor IDE de programação do mercado e prepare-se para iniciar uma trilha de aprendizado em CSharp,PT22M53S,C#
+KCW23eq4auw,OPC UA with Visual Studio and C#,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/KCW23eq4auw?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""OPC UA with Visual Studio and C#""></iframe>",17130,169,11300,Industrial IT and Automation,OPC UA with Visual Studio and C#,2022-02-18,https://i.ytimg.com/vi/KCW23eq4auw/mqdefault.jpg,"Blog:
+https://www.halvorsen.blog
+
+YouTube Channel  @Industrial IT and Automation ​
+https://www.youtube.com/IndustrialITandAutomation
+
+OPC Resources:
+https://www.halvorsen.blog/documents/technology/opc/
+
+Visual studio/C# Resources:
+https://www.halvorsen.blog/documents/programming/csharp/
+
+Video Contents:
+0:00 Introduction
+2:00 OPC
+3:47 OPC UA
+6:08 OPC UA Server Simulator
+9:26 ""OPC UA Client"" Tool
+11:13 OPC UA with C#
+12:00 OPC UA .NET SDK
+12:57 Visual Studio/C# Example
+24:49 Demo using OPC UA Server Simulator
+29:22 Demo using LabVIEW OPC UA Server
+35:03 Improved Example
+37:18 Demo
+47:31 Final OPC UA Client Applications",PT50M10S,C#
+C3s3avB92e0,Mapeador AutoMapper en C# - 1 de 2,"<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/C3s3avB92e0?feature=oembed"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" allowfullscreen title=""Mapeador AutoMapper en C# - 1 de 2""></iframe>",2022,88,1700,Mauro Bernal,Mapeador AutoMapper en C# - 1 de 2,2021-07-27,https://i.ytimg.com/vi/C3s3avB92e0/mqdefault.jpg,"¿Que son los mapeadores en .NET? En estos tutoriales veremos automapper, mapster y agile con c# y dotnet 5.0
+00:00 intro
+00:32 Mapeador: ¿que es?
+01:03 Comparativa GitHub
+02:06 Comparativa Nuget
+02:30 Que tienen en común
+03:33 ¿Cuál elijo?
+05:08 Caso Práctico
+06:43 API de Caso Práctico
+07:15 Primer Problema al tener un DTO
+08:00 Solución con mapa manual
+09:30 API de Caso solucionado con mapa manual
+10:29 Porque implementar un Mapeador: Ejemplo
+11:45 AutoMapper
+13:28 Usando _mapper
+15:20 Creando perfiles (profiler)
+18:51 API de caso solucionado con automapper
+19:31 Mapeando un campo personalizado
+
+#Net6 #automapper #csharp #dotnet #vs2019 #vs2022 #net5",PT23M37S,C#
